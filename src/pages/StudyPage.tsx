@@ -2,7 +2,9 @@ import { useEffect, useRef, useState } from 'react'
 import { useNavigate, useSearchParams } from 'react-router-dom'
 import { useAuth } from '../contexts/AuthContext'
 import { supabase } from '../lib/supabase'
-import type { Character, UserCard } from '../lib/database.types'
+import type { Character, UserCard, UserCustomCard } from '../lib/database.types'
+import { toReviewItem } from '../lib/database.types'
+import type { ReviewItem } from '../lib/database.types'
 import CharacterCard from '../components/CharacterCard'
 import { dbCardToFsrs, newCard, cardToDbFields, Rating, gradeCard } from '../lib/fsrs'
 import type { Grade } from '../lib/fsrs'
@@ -32,7 +34,7 @@ export default function StudyPage() {
   const extraMode = searchParams.get('extra') === '1'
 
   const [phase, setPhase] = useState<Phase>('loading')
-  const [reviewQueue, setReviewQueue] = useState<{ card: UserCard; character: Character }[]>([])
+  const [reviewQueue, setReviewQueue] = useState<ReviewItem[]>([])
   const [newBatch, setNewBatch] = useState<Character[]>([])
   const [reviewIndex, setReviewIndex] = useState(0)
   const [learnIndex, setLearnIndex] = useState(0)
@@ -41,7 +43,6 @@ export default function StudyPage() {
   const [reviewsDone, setReviewsDone] = useState(0)
   const sessionStartRef = useRef<number>(Date.now())
 
-  // Save elapsed time on unmount — covers both normal completion and mid-session navigation away
   useEffect(() => {
     sessionStartRef.current = Date.now()
     return () => {
@@ -55,10 +56,41 @@ export default function StudyPage() {
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [user])
 
+  // Resolve a list of user_cards into ReviewItems by fetching character/custom data
+  async function resolveCards(cards: UserCard[]): Promise<ReviewItem[]> {
+    if (cards.length === 0) return []
+
+    const charIds = cards.map((c) => c.character_id).filter((id): id is number => id !== null)
+    const customIds = cards.map((c) => c.custom_card_id).filter((id): id is string => id !== null)
+
+    const [charsRes, customRes] = await Promise.all([
+      charIds.length > 0
+        ? supabase.from('characters').select('*').in('id', charIds)
+        : Promise.resolve({ data: [] }),
+      customIds.length > 0
+        ? supabase.from('user_custom_cards').select('*').in('id', customIds)
+        : Promise.resolve({ data: [] }),
+    ])
+
+    const charMap = new Map((charsRes.data as Character[] ?? []).map((c) => [c.id, c]))
+    const customMap = new Map((customRes.data as UserCustomCard[] ?? []).map((c) => [c.id, c]))
+
+    return cards.flatMap((card) => {
+      if (card.character_id !== null) {
+        const character = charMap.get(card.character_id)
+        return character ? [toReviewItem(card, character, null)] : []
+      }
+      if (card.custom_card_id !== null) {
+        const custom = customMap.get(card.custom_card_id)
+        return custom ? [toReviewItem(card, null, custom)] : []
+      }
+      return []
+    })
+  }
+
   async function buildQueue() {
     if (!user) return
 
-    // Get or create user_progress
     const { data: progressRows } = await supabase
       .from('user_progress')
       .select('*')
@@ -77,19 +109,7 @@ export default function StudyPage() {
 
     const now = new Date().toISOString()
 
-    // Helper: fetch character data for a list of user_cards
-    async function withChars(cards: UserCard[]): Promise<{ card: UserCard; character: Character }[]> {
-      if (cards.length === 0) return []
-      const charIds = cards.map((c) => c.character_id)
-      const { data: chars } = await supabase.from('characters').select('*').in('id', charIds)
-      const charMap = new Map((chars as Character[] ?? []).map((c) => [c.id, c]))
-      return cards.flatMap((card) => {
-        const character = charMap.get(card.character_id)
-        return character ? [{ card, character }] : []
-      })
-    }
-
-    // Due cards (anything past its due timestamp), shuffled
+    // All due cards (core + custom), shuffled
     const { data: dueCards } = await supabase
       .from('user_cards')
       .select('*')
@@ -97,19 +117,19 @@ export default function StudyPage() {
       .lte('due', now)
       .order('due', { ascending: true })
 
-    const dueWithChars = shuffle(await withChars((dueCards as UserCard[]) ?? []))
+    const dueItems = shuffle(await resolveCards((dueCards as UserCard[]) ?? []))
 
-    // Count new cards already introduced today
+    // New core cards for today (custom cards bypass the cap — they appear via due queue)
     const todayStart = new Date()
     todayStart.setHours(0, 0, 0, 0)
     const { data: todayCards } = await supabase
       .from('user_cards')
       .select('id')
       .eq('user_id', user.id)
+      .not('character_id', 'is', null)   // only core cards count toward daily cap
       .gte('created_at', todayStart.toISOString())
 
     const introducedToday = todayCards?.length ?? 0
-    // extraMode: skip daily limit and always serve a full batch of new cards
     const newCardSlots = extraMode ? dailyLimit : Math.max(0, dailyLimit - introducedToday)
 
     let newChars: Character[] = []
@@ -118,8 +138,13 @@ export default function StudyPage() {
         .from('user_cards')
         .select('character_id')
         .eq('user_id', user.id)
+        .not('character_id', 'is', null)
 
-      const knownIds = new Set<number>((allCards ?? []).map((c: { character_id: number }) => c.character_id))
+      const knownIds = new Set<number>(
+        (allCards ?? [])
+          .map((c: { character_id: number | null }) => c.character_id)
+          .filter((id): id is number => id !== null)
+      )
 
       const { data: candidates } = await supabase
         .from('characters')
@@ -130,15 +155,15 @@ export default function StudyPage() {
       newChars = ((candidates as Character[]) ?? []).filter((c) => !knownIds.has(c.id)).slice(0, newCardSlots)
     }
 
-    // If nothing is due and no new cards, fall back to all introduced cards (practice mode)
-    if (dueWithChars.length === 0 && newChars.length === 0) {
+    // Practice mode: nothing due, no new cards
+    if (dueItems.length === 0 && newChars.length === 0) {
       const { data: allCards } = await supabase
         .from('user_cards')
         .select('*')
         .eq('user_id', user.id)
         .order('due', { ascending: true })
 
-      const practiceQueue = shuffle(await withChars((allCards as UserCard[]) ?? []))
+      const practiceQueue = shuffle(await resolveCards((allCards as UserCard[]) ?? []))
 
       if (practiceQueue.length === 0) {
         setPhase('allcaughtup')
@@ -151,12 +176,12 @@ export default function StudyPage() {
       return
     }
 
-    setReviewQueue(dueWithChars)
+    setReviewQueue(dueItems)
     setNewBatch(newChars)
-    setPhase(dueWithChars.length > 0 ? 'review' : 'learn')
+    setPhase(dueItems.length > 0 ? 'review' : 'learn')
   }
 
-  // ── Review phase ─────────────────────────────────────────────────────────────
+  // ── Review phase ──────────────────────────────────────────────────────────
 
   async function handleGrade(rating: Grade) {
     if (!user) return
@@ -164,20 +189,21 @@ export default function StudyPage() {
     if (!item) return
 
     const now = new Date()
-    const fsrsCard = dbCardToFsrs(item.card)
+    const fsrsCard = dbCardToFsrs(item.userCard)
     const updatedCard = gradeCard(fsrsCard, rating, now)
     const fields = cardToDbFields(updatedCard)
 
     await supabase
       .from('user_cards')
       .update(fields)
-      .eq('id', item.card.id)
+      .eq('id', item.userCard.id)
 
     await supabase.from('review_log').insert({
       user_id: user.id,
-      character_id: item.card.character_id,
+      character_id: item.userCard.character_id ?? null,
+      custom_card_id: item.userCard.custom_card_id ?? null,
       rating,
-      state_before: item.card as unknown as Record<string, unknown>,
+      state_before: item.userCard as unknown as Record<string, unknown>,
       state_after: fields as unknown as Record<string, unknown>,
     })
 
@@ -195,7 +221,7 @@ export default function StudyPage() {
     }
   }
 
-  // ── Learn phase ───────────────────────────────────────────────────────────────
+  // ── Learn phase ───────────────────────────────────────────────────────────
 
   async function handleGotIt() {
     if (!user) return
@@ -206,11 +232,11 @@ export default function StudyPage() {
       return
     }
 
-    // All new cards stepped through — create user_cards rows
     const emptyCard = newCard()
     const rows = newBatch.map((c) => ({
       user_id: user.id,
       character_id: c.id,
+      custom_card_id: null,
       stability: emptyCard.stability,
       difficulty: emptyCard.difficulty,
       elapsed_days: emptyCard.elapsed_days,
@@ -241,7 +267,7 @@ export default function StudyPage() {
     setPhase('summary')
   }
 
-  // ── Render ────────────────────────────────────────────────────────────────────
+  // ── Render ────────────────────────────────────────────────────────────────
 
   if (phase === 'loading') {
     return (
@@ -330,7 +356,11 @@ export default function StudyPage() {
         label="Review"
       >
         <div className="flex-1 py-4 overflow-y-auto">
-          <CharacterCard character={item.character} showFull={showAnswer} />
+          {item.character ? (
+            <CharacterCard character={item.character} showFull={showAnswer} />
+          ) : (
+            <CharacterCard customCard={item.customCard!} showFull={showAnswer} />
+          )}
         </div>
 
         <div className="pt-4 pb-2">

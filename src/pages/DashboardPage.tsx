@@ -135,6 +135,9 @@ export default function DashboardPage() {
             <button onClick={() => navigate('/stats')} className="text-sm text-muted hover:text-ink transition-colors">
               Stats
             </button>
+            <button onClick={() => navigate('/cards')} className="text-sm text-muted hover:text-ink transition-colors">
+              My cards
+            </button>
             <button onClick={signOut} className="text-sm text-muted hover:text-ink transition-colors">
               Sign out
             </button>
@@ -179,6 +182,14 @@ export default function DashboardPage() {
             : s.totalIntroduced > 0
             ? 'Practice (no cards due)'
             : 'Start studying'}
+        </button>
+
+        {/* Add custom card */}
+        <button
+          onClick={() => navigate('/add-card')}
+          className="w-full py-2.5 text-sm text-accent hover:text-accent-hover border border-accent/30 hover:border-accent/60 rounded-xl transition-colors bg-white font-medium"
+        >
+          + Add custom card
         </button>
 
         {/* Secondary: learn next batch early */}
