@@ -35,6 +35,26 @@ export function getTodayStudySeconds(): number {
   }
 }
 
+// Reviews more than 5 minutes apart are treated as separate sessions.
+// Sum active session spans + 15 s per review as overhead.
+export function calcStudySeconds(timestampsMs: number[]): number {
+  if (timestampsMs.length === 0) return 0
+  const sorted = [...timestampsMs].sort((a, b) => a - b)
+  const SESSION_GAP_MS = 5 * 60 * 1000
+  let spanMs = 0
+  let sessionStart = sorted[0]
+  let prev = sorted[0]
+  for (let i = 1; i < sorted.length; i++) {
+    if (sorted[i] - prev > SESSION_GAP_MS) {
+      spanMs += prev - sessionStart
+      sessionStart = sorted[i]
+    }
+    prev = sorted[i]
+  }
+  spanMs += prev - sessionStart
+  return Math.round((spanMs + sorted.length * 15_000) / 1000)
+}
+
 export function formatStudyTime(seconds: number): string {
   if (seconds < 60) return `${seconds}s`
   const m = Math.floor(seconds / 60)

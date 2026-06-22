@@ -4,7 +4,7 @@ import { useAuth } from '../contexts/AuthContext'
 import { supabase } from '../lib/supabase'
 import type { UserCard, UserProgress } from '../lib/database.types'
 import { getStreakDays } from '../lib/streak'
-import { formatStudyTime } from '../lib/studyTime'
+import { calcStudySeconds, formatStudyTime } from '../lib/studyTime'
 
 interface Stats {
   totalIntroduced: number
@@ -90,16 +90,11 @@ export default function DashboardPage() {
 
     const streak = getStreakDays(allTimestamps, cards.map((c) => c.created_at), timezone)
 
-    // Study time today: span from first → last review + 15 s per review as buffer
+    // Study time today: session-aware calculation
     const todayTs = allTimestamps
       .filter((ts) => ts >= todayStart.toISOString())
       .map((ts) => new Date(ts).getTime())
-
-    let studySecondsToday = 0
-    if (todayTs.length > 0) {
-      const spanMs = Math.max(...todayTs) - Math.min(...todayTs)
-      studySecondsToday = Math.round((spanMs + todayTs.length * 15_000) / 1000)
-    }
+    const studySecondsToday = calcStudySeconds(todayTs)
 
     setStats({ totalIntroduced, dueReviews, newAvailableToday, knownCount, streak, dailyNewCardLimit, studySecondsToday })
     setLoading(false)

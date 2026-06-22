@@ -6,6 +6,7 @@ import {
 } from 'recharts'
 import { useAuth } from '../contexts/AuthContext'
 import { supabase } from '../lib/supabase'
+import { calcStudySeconds } from '../lib/studyTime'
 
 interface DayPoint {
   date: string          // 'Jun 22'
@@ -80,16 +81,15 @@ export default function StatsPage() {
       newPerDay.set(d, (newPerDay.get(d) ?? 0) + 1)
     }
 
-    // Reviews per day + study-time estimate
+    // Reviews per day + all timestamps per day for session-aware study time
     const reviewsPerDay = new Map<string, number>()
-    const firstReviewPerDay = new Map<string, number>()
-    const lastReviewPerDay = new Map<string, number>()
+    const timestampsPerDay = new Map<string, number[]>()
     for (const l of logs) {
       const d = toLocalDate(l.reviewed_at, tz)
       const ts = new Date(l.reviewed_at).getTime()
       reviewsPerDay.set(d, (reviewsPerDay.get(d) ?? 0) + 1)
-      if (!firstReviewPerDay.has(d) || ts < firstReviewPerDay.get(d)!) firstReviewPerDay.set(d, ts)
-      if (!lastReviewPerDay.has(d) || ts > lastReviewPerDay.get(d)!) lastReviewPerDay.set(d, ts)
+      if (!timestampsPerDay.has(d)) timestampsPerDay.set(d, [])
+      timestampsPerDay.get(d)!.push(ts)
     }
 
     // First time each character reached "known" (state >= 2)
@@ -129,13 +129,8 @@ export default function StatsPage() {
       cumIntroduced += newPerDay.get(iso) ?? 0
       cumKnown += newlyKnownPerDay.get(iso) ?? 0
 
-      const first = firstReviewPerDay.get(iso)
-      const last = lastReviewPerDay.get(iso)
-      const spanMs = first && last ? Math.max(last - first, 0) : 0
-      // estimate: span + 15 s per review (buffer for first/last card)
       const reviews = reviewsPerDay.get(iso) ?? 0
-      const studyMs = spanMs + reviews * 15_000
-      const studyMinutes = Math.round(studyMs / 60_000)
+      const studyMinutes = Math.round(calcStudySeconds(timestampsPerDay.get(iso) ?? []) / 60)
 
       return {
         date: formatDate(iso),
