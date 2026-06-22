@@ -21,8 +21,9 @@ interface DayPoint {
 interface Projections {
   totalIntroduced: number
   totalKnown: number
+  totalDeck: number
   avgNewPerDay: number   // 7-day rolling
-  daysTo500: number | null
+  daysToComplete: number | null
   projectedDate: string | null
 }
 
@@ -63,11 +64,13 @@ export default function StatsPage() {
 
     const tz = Intl.DateTimeFormat().resolvedOptions().timeZone
 
-    // Fetch all user_cards and review_log
-    const [{ data: cardsData }, { data: logsData }] = await Promise.all([
+    // Fetch all user_cards, review_log, and custom card count
+    const [{ data: cardsData }, { data: logsData }, { count: customCount }] = await Promise.all([
       supabase.from('user_cards').select('created_at, state, character_id').eq('user_id', user.id),
       supabase.from('review_log').select('reviewed_at, state_after, character_id').eq('user_id', user.id).order('reviewed_at', { ascending: true }),
+      supabase.from('user_custom_cards').select('*', { count: 'exact', head: true }).eq('user_id', user.id),
     ])
+    const totalDeck = 500 + (customCount ?? 0)
 
     const cards = (cardsData ?? []) as { created_at: string; state: number; character_id: number }[]
     const logs = (logsData ?? []) as { reviewed_at: string; state_after: Record<string, unknown> | null; character_id: number }[]
@@ -152,17 +155,17 @@ export default function StatsPage() {
     const newLast7 = last7.reduce((s, d) => s + (newPerDay.get(d) ?? 0), 0)
     const avgNewPerDay = newLast7 / 7
 
-    let daysTo500: number | null = null
+    let daysToComplete: number | null = null
     let projectedDate: string | null = null
-    if (avgNewPerDay > 0) {
-      daysTo500 = Math.ceil((500 - totalIntroduced) / avgNewPerDay)
+    if (avgNewPerDay > 0 && totalIntroduced < totalDeck) {
+      daysToComplete = Math.ceil((totalDeck - totalIntroduced) / avgNewPerDay)
       const pd = new Date()
-      pd.setDate(pd.getDate() + daysTo500)
+      pd.setDate(pd.getDate() + daysToComplete)
       projectedDate = pd.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
     }
 
     setDays(series)
-    setProj({ totalIntroduced, totalKnown, avgNewPerDay, daysTo500, projectedDate })
+    setProj({ totalIntroduced, totalKnown, totalDeck, avgNewPerDay, daysToComplete, projectedDate })
     setLoading(false)
   }
 
@@ -181,7 +184,7 @@ export default function StatsPage() {
     <PageShell onBack={() => navigate('/')}>
       {/* Summary cards */}
       <div className="grid grid-cols-2 gap-3 mb-8">
-        <MiniStat label="Introduced" value={`${p.totalIntroduced} / 500`} />
+        <MiniStat label="Introduced" value={`${p.totalIntroduced} / ${p.totalDeck}`} />
         <MiniStat label="Known" value={String(p.totalKnown)} accent />
         <MiniStat
           label="Avg new / day"
@@ -189,8 +192,8 @@ export default function StatsPage() {
           sub="last 7 days"
         />
         <MiniStat
-          label="Days to 500"
-          value={p.daysTo500 != null ? String(p.daysTo500) : '—'}
+          label={`Days to ${p.totalDeck}`}
+          value={p.daysToComplete != null ? String(p.daysToComplete) : '—'}
           sub={p.projectedDate ?? 'start learning to project'}
         />
       </div>
@@ -217,7 +220,7 @@ export default function StatsPage() {
                 </defs>
                 <CartesianGrid strokeDasharray="3 3" stroke="#f0f0ee" />
                 <XAxis dataKey="date" tick={{ fontSize: 11, fill: '#6B7280' }} tickLine={false} interval="preserveStartEnd" />
-                <YAxis tick={{ fontSize: 11, fill: '#6B7280' }} tickLine={false} axisLine={false} domain={[0, 500]} />
+                <YAxis tick={{ fontSize: 11, fill: '#6B7280' }} tickLine={false} axisLine={false} domain={[0, p.totalDeck]} />
                 <Tooltip contentStyle={{ fontSize: 12, borderRadius: 8, border: '1px solid #f0f0ee' }} />
                 <Legend wrapperStyle={{ fontSize: 12 }} />
                 <Area type="monotone" dataKey="cumulativeIntroduced" name="Introduced" stroke="#4F6EF7" fill="url(#gradIntro)" strokeWidth={2} dot={false} />
@@ -260,8 +263,8 @@ export default function StatsPage() {
             <Section title="Projection" sub="Based on your 7-day average rate">
               <div className="space-y-2 text-sm">
                 <ProjectionRow label="Current rate" value={`${p.avgNewPerDay.toFixed(1)} new cards / day`} />
-                <ProjectionRow label="Characters remaining" value={`${500 - p.totalIntroduced} of 500`} />
-                <ProjectionRow label="Days until all 500 introduced" value={p.daysTo500 != null ? `${p.daysTo500} days` : '—'} />
+                <ProjectionRow label="Characters remaining" value={`${p.totalDeck - p.totalIntroduced} of ${p.totalDeck}`} />
+                <ProjectionRow label={`Days until all ${p.totalDeck} introduced`} value={p.daysToComplete != null ? `${p.daysToComplete} days` : '—'} />
                 <ProjectionRow label="Projected completion" value={p.projectedDate ?? '—'} highlight />
                 <p className="text-xs text-muted pt-2">
                   "Known" lags behind introduction by the time it takes FSRS to mature each card through its review intervals — typically a few weeks to months per card.
