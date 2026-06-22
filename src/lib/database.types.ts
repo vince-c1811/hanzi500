@@ -12,6 +12,9 @@ export interface Database {
           radical_meaning: string
           mnemonic: string
           mnemonic_type: 'C' | 'H'
+          example: string | null
+          example_pinyin: string | null
+          example_english: string | null
         }
         Insert: never
         Update: never

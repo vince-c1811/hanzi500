@@ -8,7 +8,10 @@
     "radical_pinyin": "bái",
     "radical_meaning": "white",
     "mnemonic": "白 (white) + 勺 (ladle). The single most common character in Chinese; the little white ladle that scoops out the link in 'X's Y'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我的书",
+    "example_pinyin": "wǒ de shū",
+    "example_english": "my book"
   },
   {
     "rank": 2,
@@ -19,7 +22,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "A single horizontal stroke. One line means one. The simplest character there is.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一个人",
+    "example_pinyin": "yí gè rén",
+    "example_english": "one person"
   },
   {
     "rank": 3,
@@ -30,7 +36,10 @@
     "radical_pinyin": "rì",
     "radical_meaning": "sun",
     "mnemonic": "日 (sun) over 正 (upright/correct). What the sun reveals is true: 'it is so'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我是学生",
+    "example_pinyin": "wǒ shì xuésheng",
+    "example_english": "I am a student"
   },
   {
     "rank": 4,
@@ -41,7 +50,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "A bird flying up and hitting a ceiling (一). It can NOT get through. Negation.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我不去",
+    "example_pinyin": "wǒ bú qù",
+    "example_english": "I'm not going"
   },
   {
     "rank": 5,
@@ -52,7 +64,10 @@
     "radical_pinyin": "jué",
     "radical_meaning": "hook",
     "mnemonic": "One stroke ending in a hook, like a checkmark. The action is done: tick, finished.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "他走了",
+    "example_pinyin": "tā zǒu le",
+    "example_english": "he left"
   },
   {
     "rank": 6,
@@ -63,7 +78,10 @@
     "radical_pinyin": "tǔ",
     "radical_meaning": "earth",
     "mnemonic": "土 (earth) holding a sprouting form. To exist 'at' a place is to be rooted in the ground.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我在家",
+    "example_pinyin": "wǒ zài jiā",
+    "example_english": "I'm at home"
   },
   {
     "rank": 7,
@@ -74,7 +92,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "Two legs mid-stride. A person walking, one of the oldest pictographs.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "好人",
+    "example_pinyin": "hǎo rén",
+    "example_english": "a good person"
   },
   {
     "rank": 8,
@@ -85,7 +106,10 @@
     "radical_pinyin": "yuè",
     "radical_meaning": "moon/meat",
     "mnemonic": "A hand (𠂇) over a slab of meat (月). Meat in hand means you 'have' it.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我有钱",
+    "example_pinyin": "wǒ yǒu qián",
+    "example_english": "I have money"
   },
   {
     "rank": 9,
@@ -96,7 +120,10 @@
     "radical_pinyin": "gē",
     "radical_meaning": "halberd/spear",
     "mnemonic": "A hand gripping a halberd (戈). 'I' is the self that holds the weapon to defend its ground.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我爱你",
+    "example_pinyin": "wǒ ài nǐ",
+    "example_english": "I love you"
   },
   {
     "rank": 10,
@@ -107,7 +134,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 也 (also). Another person standing there: 'he', the other one.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "他很高",
+    "example_pinyin": "tā hěn gāo",
+    "example_english": "he is tall"
   },
   {
     "rank": 11,
@@ -118,7 +148,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 文. You step over and point right at it: 'this one, here'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "这是什么",
+    "example_pinyin": "zhè shì shénme",
+    "example_english": "what is this"
   },
   {
     "rank": 12,
@@ -129,7 +162,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "A person under a peaked roof. The all-purpose counter you reach for to count one of anything.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "三个人",
+    "example_pinyin": "sān gè rén",
+    "example_english": "three people"
   },
   {
     "rank": 13,
@@ -140,7 +176,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 门 (gate). A crowd pouring through the gate; turns 'I/you/he' into 'we/you all/they'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我们走",
+    "example_pinyin": "wǒmen zǒu",
+    "example_english": "let's go"
   },
   {
     "rank": 14,
@@ -151,7 +190,10 @@
     "radical_pinyin": "gǔn",
     "radical_meaning": "vertical line",
     "mnemonic": "A line driven straight through the middle of a box (口). Dead center.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "中国人",
+    "example_pinyin": "Zhōngguó rén",
+    "example_english": "a Chinese person"
   },
   {
     "rank": 15,
@@ -162,7 +204,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "Originally a ripe wheat plant. The harvest 'comes' up out of the field and comes to you.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "你来吗",
+    "example_pinyin": "nǐ lái ma",
+    "example_english": "are you coming?"
   },
   {
     "rank": 16,
@@ -173,7 +218,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "A mark sitting above the baseline (一). Above the line: up. Mirror image of 下.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "上车",
+    "example_pinyin": "shàng chē",
+    "example_english": "get on the car"
   },
   {
     "rank": 17,
@@ -184,7 +232,10 @@
     "radical_pinyin": "dà",
     "radical_meaning": "big",
     "mnemonic": "A person (人) throwing both arms wide to show how 'big' it is.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "大房子",
+    "example_pinyin": "dà fángzi",
+    "example_english": "a big house"
   },
   {
     "rank": 18,
@@ -195,7 +246,10 @@
     "radical_pinyin": "zhǔ",
     "radical_meaning": "dot",
     "mnemonic": "Originally a hand leading an elephant to work. To do something 'for' a purpose, or to act as.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "为什么",
+    "example_pinyin": "wèi shénme",
+    "example_english": "why"
   },
   {
     "rank": 19,
@@ -206,7 +260,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "禾 (grain) + 口 (mouth). Every mouth fed with grain means harmony, and people brought together: 'and'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "你和我",
+    "example_pinyin": "nǐ hé wǒ",
+    "example_english": "you and me"
   },
   {
     "rank": 20,
@@ -217,7 +274,10 @@
     "radical_pinyin": "wéi",
     "radical_meaning": "enclosure",
     "mnemonic": "囗 (border) around 玉 (jade). A 'country' is jade treasure within guarded borders.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "中国",
+    "example_pinyin": "Zhōngguó",
+    "example_english": "China"
   },
   {
     "rank": 21,
@@ -228,7 +288,10 @@
     "radical_pinyin": "tǔ",
     "radical_meaning": "earth",
     "mnemonic": "土 (earth) + 也 (also). Earth and yet more earth spreading out: the 'ground'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "在地上",
+    "example_pinyin": "zài dì shàng",
+    "example_english": "on the ground"
   },
   {
     "rank": 22,
@@ -239,7 +302,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife (radical)",
     "mnemonic": "至 (to reach) + 刂 (knife). An arrow reaching the target, sharp point landing: you 'arrive'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我到了",
+    "example_pinyin": "wǒ dào le",
+    "example_english": "I've arrived"
   },
   {
     "rank": 23,
@@ -250,7 +316,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "A person wielding a tool. 'By means of' one thing you accomplish another.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "可以吗",
+    "example_pinyin": "kěyǐ ma",
+    "example_english": "is it okay?"
   },
   {
     "rank": 24,
@@ -261,7 +330,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 兑 (exchange). Words traded out loud: to 'speak'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "你说吧",
+    "example_pinyin": "nǐ shuō ba",
+    "example_english": "go ahead and say it"
   },
   {
     "rank": 25,
@@ -272,7 +344,10 @@
     "radical_pinyin": "rì",
     "radical_meaning": "sun",
     "mnemonic": "日 (sun) + 寸 (measure). Measuring the sun's position is how you tell 'time'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "有时候",
+    "example_pinyin": "yǒu shíhou",
+    "example_english": "sometimes"
   },
   {
     "rank": 26,
@@ -283,7 +358,10 @@
     "radical_pinyin": "yà",
     "radical_meaning": "cover/west",
     "mnemonic": "西 (west) + 女 (woman); originally a waist, the body's vital center. What you 'want' / must have.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我要这个",
+    "example_pinyin": "wǒ yào zhège",
+    "example_english": "I want this one"
   },
   {
     "rank": 27,
@@ -294,7 +372,10 @@
     "radical_pinyin": "yóu",
     "radical_meaning": "lame",
     "mnemonic": "京 (capital) + 尤 (especially). Make for the capital and 'then', right away, it happens.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我就来",
+    "example_pinyin": "wǒ jiù lái",
+    "example_english": "I'll come right away"
   },
   {
     "rank": 28,
@@ -305,7 +386,10 @@
     "radical_pinyin": "kǎn",
     "radical_meaning": "open box",
     "mnemonic": "Originally a foot stepping out of a pit; looks like peaks stacked. You climb 'out' and away.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "出去",
+    "example_pinyin": "chū qù",
+    "example_english": "go out"
   },
   {
     "rank": 29,
@@ -316,7 +400,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "人 (person) over 云 (cloud). People gathering under the clouds: a 'meeting', and being able to.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我会说",
+    "example_pinyin": "wǒ huì shuō",
+    "example_english": "I can speak"
   },
   {
     "rank": 30,
@@ -327,7 +414,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A mouth (口) granting approval. Permission spoken aloud: 'may', 'can'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "可以",
+    "example_pinyin": "kěyǐ",
+    "example_english": "can / may"
   },
   {
     "rank": 31,
@@ -338,7 +428,10 @@
     "radical_pinyin": "yǐ",
     "radical_meaning": "second",
     "mnemonic": "A single flowing form. Tag it on to mean 'also': me too, this as well.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我也是",
+    "example_pinyin": "wǒ yě shì",
+    "example_english": "me too"
   },
   {
     "rank": 32,
@@ -349,7 +442,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 尔 (you/that). The person facing me: 'you'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "你好吗",
+    "example_pinyin": "nǐ hǎo ma",
+    "example_english": "how are you?"
   },
   {
     "rank": 33,
@@ -360,7 +456,10 @@
     "radical_pinyin": "cùn",
     "radical_meaning": "inch/hand",
     "mnemonic": "又 (hand) + 寸 (measure). A hand measuring precisely: getting it 'correct', squaring up to face it.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "你对了",
+    "example_pinyin": "nǐ duì le",
+    "example_english": "you're right"
   },
   {
     "rank": 34,
@@ -371,7 +470,10 @@
     "radical_pinyin": "shēng",
     "radical_meaning": "to be born",
     "mnemonic": "A sprout pushing up out of the soil (土). New 'life' growing.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "学生",
+    "example_pinyin": "xuésheng",
+    "example_english": "student"
   },
   {
     "rank": 35,
@@ -382,7 +484,10 @@
     "radical_pinyin": "yuè",
     "radical_meaning": "moon/meat",
     "mnemonic": "Originally a picture of a bear, a strong, capable beast. Strength becomes 'ability'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我能去",
+    "example_pinyin": "wǒ néng qù",
+    "example_english": "I can go"
   },
   {
     "rank": 36,
@@ -393,7 +498,10 @@
     "radical_pinyin": "ér",
     "radical_meaning": "beard/and",
     "mnemonic": "Originally a drawing of a hanging beard. Now a formal joiner: 'and yet', 'but'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "大而美",
+    "example_pinyin": "dà ér měi",
+    "example_english": "big and beautiful"
   },
   {
     "rank": 37,
@@ -404,7 +512,10 @@
     "radical_pinyin": "zǐ",
     "radical_meaning": "child",
     "mnemonic": "A swaddled baby with arms out. A 'child', and a core radical.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "孩子",
+    "example_pinyin": "háizi",
+    "example_english": "child"
   },
   {
     "rank": 38,
@@ -415,7 +526,10 @@
     "radical_pinyin": "yì",
     "radical_meaning": "city (radical)",
     "mnemonic": "Mirror of 这 (this): points away to the far city (阝) on the right. 'That one over there'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "那是谁",
+    "example_pinyin": "nà shì shéi",
+    "example_english": "who is that?"
   },
   {
     "rank": 39,
@@ -426,7 +540,10 @@
     "radical_pinyin": "chì",
     "radical_meaning": "step (radical)",
     "mnemonic": "彳 (step) + 旦 (dawn) + 寸 (hand). Walk out at dawn and grasp it: you 'get' it.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "做得好",
+    "example_pinyin": "zuò de hǎo",
+    "example_english": "well done"
   },
   {
     "rank": 40,
@@ -437,7 +554,10 @@
     "radical_pinyin": "èr",
     "radical_meaning": "two",
     "mnemonic": "A formal hook linking two things into relation: 'at', 'in', 'to'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "属于我",
+    "example_pinyin": "shǔyú wǒ",
+    "example_english": "belongs to me"
   },
   {
     "rank": 41,
@@ -448,7 +568,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "eye",
     "mnemonic": "羊 (sheep) over 目 (eye). Keep your eye on the sheep the whole time: ongoing action.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "看着我",
+    "example_pinyin": "kàn zhe wǒ",
+    "example_english": "looking at me"
   },
   {
     "rank": 42,
@@ -459,7 +582,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "A mark below the baseline (一). Below the line: down. Mirror of 上.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "下车",
+    "example_pinyin": "xià chē",
+    "example_english": "get off the car"
   },
   {
     "rank": 43,
@@ -470,7 +596,10 @@
     "radical_pinyin": "zì",
     "radical_meaning": "self/nose",
     "mnemonic": "A picture of a nose. Chinese speakers point at their own nose to mean 'me': 'self'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "自己来",
+    "example_pinyin": "zìjǐ lái",
+    "example_english": "do it yourself"
   },
   {
     "rank": 44,
@@ -481,7 +610,10 @@
     "radical_pinyin": "zhǔ",
     "radical_meaning": "dot",
     "mnemonic": "A footprint moving forward; the literary cousin of 的, classical 'of' and 'this'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "三分之一",
+    "example_pinyin": "sān fēn zhī yī",
+    "example_english": "one third"
   },
   {
     "rank": 45,
@@ -492,7 +624,10 @@
     "radical_pinyin": "gān",
     "radical_meaning": "dry/shield",
     "mnemonic": "Originally a person carrying harvested grain home. One harvest equals one 'year'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "今年",
+    "example_pinyin": "jīnnián",
+    "example_english": "this year"
   },
   {
     "rank": 46,
@@ -503,7 +638,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 寸 (measure). Stepping across a measured span: to 'pass', or to have done before.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我去过",
+    "example_pinyin": "wǒ qù guò",
+    "example_english": "I have been there"
   },
   {
     "rank": 47,
@@ -514,7 +652,10 @@
     "radical_pinyin": "yòu",
     "radical_meaning": "hand/again",
     "mnemonic": "A hand loosing an arrow: to 'send out', launch, develop. (As 'fà': hair.)",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "发短信",
+    "example_pinyin": "fā duǎnxìn",
+    "example_english": "send a text"
   },
   {
     "rank": 48,
@@ -525,7 +666,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A figure with a mouth issuing orders from the 'rear', and what comes 'after' the front.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "以后",
+    "example_pinyin": "yǐhòu",
+    "example_english": "later / afterwards"
   },
   {
     "rank": 49,
@@ -536,7 +680,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 乍 (suddenly/make). A person making something: to 'do', to produce a work.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "工作",
+    "example_pinyin": "gōngzuò",
+    "example_english": "work / job"
   },
   {
     "rank": 50,
@@ -547,7 +694,10 @@
     "radical_pinyin": "lǐ",
     "radical_meaning": "village",
     "mnemonic": "田 (field) + 土 (earth). Where fields and soil sit is the 'village', and 'inside' a place.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "家里",
+    "example_pinyin": "jiā lǐ",
+    "example_english": "at home / inside the house"
   },
   {
     "rank": 51,
@@ -558,7 +708,10 @@
     "radical_pinyin": "yòng",
     "radical_meaning": "use",
     "mnemonic": "Originally a bucket or fence-panel, a tool put to work. To 'use' something.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我用这个",
+    "example_pinyin": "wǒ yòng zhège",
+    "example_english": "I use this one"
   },
   {
     "rank": 52,
@@ -569,7 +722,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 首 (head). Where your head leads as you walk: your 'way', the path.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我知道",
+    "example_pinyin": "wǒ zhīdào",
+    "example_english": "I know"
   },
   {
     "rank": 53,
@@ -580,7 +736,10 @@
     "radical_pinyin": "xíng",
     "radical_meaning": "to walk/go",
     "mnemonic": "A picture of a crossroads. People moving through it: to 'walk', to be OK; as 'háng', a row or trade.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "行不行",
+    "example_pinyin": "xíng bù xíng",
+    "example_english": "is it okay or not?"
   },
   {
     "rank": 54,
@@ -591,7 +750,10 @@
     "radical_pinyin": "hù",
     "radical_meaning": "door/household",
     "mnemonic": "户 (door) + 斤 (axe). A workshop, a 'place' where work is done; also nominalizes verbs (所说 = what is said).",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "所以呢",
+    "example_pinyin": "suǒyǐ ne",
+    "example_english": "so what?"
   },
   {
     "rank": 55,
@@ -602,7 +764,10 @@
     "radical_pinyin": "huǒ",
     "radical_meaning": "fire (radical)",
     "mnemonic": "Dog-meat (肰) over fire (灬); originally 'to burn'. Now 'so', 'thus', and the -ly tail (突然 suddenly).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "然后呢",
+    "example_pinyin": "ránhòu ne",
+    "example_english": "and then?"
   },
   {
     "rank": 56,
@@ -613,7 +778,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) over 豕 (pig). A house with a pig inside is wealth: a 'home', a family.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "回家",
+    "example_pinyin": "huí jiā",
+    "example_english": "go home"
   },
   {
     "rank": 57,
@@ -624,7 +792,10 @@
     "radical_pinyin": "hé",
     "radical_meaning": "grain",
     "mnemonic": "禾 (grain) + 中 (center). The seed at the center of the grain: a 'kind' / type, or to 'plant'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "两种",
+    "example_pinyin": "liǎng zhǒng",
+    "example_english": "two kinds"
   },
   {
     "rank": 58,
@@ -635,7 +806,10 @@
     "radical_pinyin": "jué",
     "radical_meaning": "hook",
     "mnemonic": "A hand holding a brush to record events. A 'matter' or affair to deal with.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "没事",
+    "example_pinyin": "méi shì",
+    "example_english": "it's nothing / no problem"
   },
   {
     "rank": 59,
@@ -646,7 +820,10 @@
     "radical_pinyin": "gē",
     "radical_meaning": "halberd/spear",
     "mnemonic": "戈 (halberd) marking a task finished. The job is done: you 'succeed', it 'becomes'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "成功",
+    "example_pinyin": "chénggōng",
+    "example_english": "success"
   },
   {
     "rank": 60,
@@ -657,7 +834,10 @@
     "radical_pinyin": "fāng",
     "radical_meaning": "square",
     "mnemonic": "Originally a plough or a banner on a pole. A 'direction', a 'square', a 'method'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "地方",
+    "example_pinyin": "dìfang",
+    "example_english": "place"
   },
   {
     "rank": 61,
@@ -668,7 +848,10 @@
     "radical_pinyin": "xī",
     "radical_meaning": "dusk/evening",
     "mnemonic": "夕 (evening) + 夕 (evening). One evening piled on another: 'many', more and more.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很多人",
+    "example_pinyin": "hěn duō rén",
+    "example_english": "many people"
   },
   {
     "rank": 62,
@@ -679,7 +862,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 巠 (underground stream). The warp threads running the length of cloth: what runs 'through', a classic.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "已经",
+    "example_pinyin": "yǐjīng",
+    "example_english": "already"
   },
   {
     "rank": 63,
@@ -690,7 +876,10 @@
     "radical_pinyin": "piě",
     "radical_meaning": "slash",
     "mnemonic": "A small curling tail. Tacks onto question words: 什么 (what), 怎么 (how), 那么 (so).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "什么",
+    "example_pinyin": "shénme",
+    "example_english": "what"
   },
   {
     "rank": 64,
@@ -701,7 +890,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "private",
     "mnemonic": "土 (earth) + 厶 (private). Leaving your own plot of land to 'go' elsewhere.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我去了",
+    "example_pinyin": "wǒ qù le",
+    "example_english": "I went"
   },
   {
     "rank": 65,
@@ -712,7 +904,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 去 (go). Water finds its level everywhere it goes: a fair 'law', a method.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "方法",
+    "example_pinyin": "fāngfǎ",
+    "example_english": "method"
   },
   {
     "rank": 66,
@@ -723,7 +918,10 @@
     "radical_pinyin": "zǐ",
     "radical_meaning": "child",
     "mnemonic": "A child (子) under a roof, hands above passing down knowledge. A child 'learning'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "学中文",
+    "example_pinyin": "xué Zhōngwén",
+    "example_english": "study Chinese"
   },
   {
     "rank": 67,
@@ -734,7 +932,10 @@
     "radical_pinyin": "nǚ",
     "radical_meaning": "woman",
     "mnemonic": "女 (woman) + 口 (mouth). Following spoken instructions exactly: doing 'as' told, 'like' so.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "如果",
+    "example_pinyin": "rúguǒ",
+    "example_english": "if"
   },
   {
     "rank": 68,
@@ -745,7 +946,10 @@
     "radical_pinyin": "yì",
     "radical_meaning": "city (radical)",
     "mnemonic": "者 (those) + 阝 (city). Everyone in the city together: 'all' of them.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "都来了",
+    "example_pinyin": "dōu lái le",
+    "example_english": "everyone has come"
   },
   {
     "rank": 69,
@@ -756,7 +960,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "An enclosure with 口 (mouth) inside: many mouths under one roof speaking as one: the 'same', together.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "同一个",
+    "example_pinyin": "tóng yí gè",
+    "example_english": "the same one"
   },
   {
     "rank": 70,
@@ -767,7 +974,10 @@
     "radical_pinyin": "wáng",
     "radical_meaning": "jade/king (radical)",
     "mnemonic": "王/玉 (jade) + 见 (to see). Jade polished until its shine 'appears': the here and 'now'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "现在",
+    "example_pinyin": "xiànzài",
+    "example_english": "now"
   },
   {
     "rank": 71,
@@ -778,7 +988,10 @@
     "radical_pinyin": "jì",
     "radical_meaning": "snout",
     "mnemonic": "Originally 'to match, to equal'. To stand in a role: to 'serve as', and 'at the time when'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "当时",
+    "example_pinyin": "dāngshí",
+    "example_english": "at that time"
   },
   {
     "rank": 72,
@@ -789,7 +1002,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 殳 (hand-tool). A hand vanishing under water: 'have not', gone, without.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "没有",
+    "example_pinyin": "méiyǒu",
+    "example_english": "don't have"
   },
   {
     "rank": 73,
@@ -800,7 +1016,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "strength",
     "mnemonic": "云 (cloud) + 力 (force). Force applied makes things 'move'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "别动",
+    "example_pinyin": "bié dòng",
+    "example_english": "don't move"
   },
   {
     "rank": 74,
@@ -811,7 +1030,10 @@
     "radical_pinyin": "miàn",
     "radical_meaning": "face",
     "mnemonic": "A pictograph of a face with the eye inside the outline. The 'face', and by extension any surface or side.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "外面",
+    "example_pinyin": "wàimiàn",
+    "example_english": "outside"
   },
   {
     "rank": 75,
@@ -822,7 +1044,10 @@
     "radical_pinyin": "zǒu",
     "radical_meaning": "to walk/run",
     "mnemonic": "走 (to run) + 己 (self). You get yourself moving: to 'rise', stand up, begin.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "起来",
+    "example_pinyin": "qǐlái",
+    "example_english": "get up"
   },
   {
     "rank": 76,
@@ -833,7 +1058,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "eye",
     "mnemonic": "手 (hand) over 目 (eye). A hand shading the eye to 'look' into the distance.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "看书",
+    "example_pinyin": "kàn shū",
+    "example_english": "read a book"
   },
   {
     "rank": 77,
@@ -844,7 +1072,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) + 正 (upright). Everything set right under one roof: 'fixed', settled, decided.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一定",
+    "example_pinyin": "yídìng",
+    "example_english": "definitely"
   },
   {
     "rank": 78,
@@ -855,7 +1086,10 @@
     "radical_pinyin": "dà",
     "radical_meaning": "big",
     "mnemonic": "一 (the highest line) over 大 (a big person). What's above even a giant: the 'sky', a 'day'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "今天",
+    "example_pinyin": "jīntiān",
+    "example_english": "today"
   },
   {
     "rank": 79,
@@ -866,7 +1100,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife",
     "mnemonic": "八 (split apart) over 刀 (knife). A knife cutting something in two: to 'divide', a portion.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "十分钟",
+    "example_pinyin": "shí fēnzhōng",
+    "example_english": "ten minutes"
   },
   {
     "rank": 80,
@@ -877,7 +1114,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 不 (not). Movement not yet finished: 'still' going; or to walk something back, 'return'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "还没好",
+    "example_pinyin": "hái méi hǎo",
+    "example_english": "not ready yet"
   },
   {
     "rank": 81,
@@ -888,7 +1128,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 井 (well). Walking forward toward the well: to 'advance', to enter.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "进来",
+    "example_pinyin": "jìnlái",
+    "example_english": "come in"
   },
   {
     "rank": 82,
@@ -899,7 +1142,10 @@
     "radical_pinyin": "nǚ",
     "radical_meaning": "woman",
     "mnemonic": "女 (woman) + 子 (child). A mother with her child: the picture of 'good', everything well.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "你好",
+    "example_pinyin": "nǐ hǎo",
+    "example_english": "hello"
   },
   {
     "rank": 83,
@@ -910,7 +1156,10 @@
     "radical_pinyin": "xiǎo",
     "radical_meaning": "small",
     "mnemonic": "Three tiny strokes, a sliver splitting into specks. 'Small', little bits.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "小孩",
+    "example_pinyin": "xiǎohái",
+    "example_english": "small child"
   },
   {
     "rank": 84,
@@ -921,7 +1170,10 @@
     "radical_pinyin": "yì",
     "radical_meaning": "city (radical)",
     "mnemonic": "咅 (phonetic) + 阝 (city/region). A district of the city: a 'section', a department.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "全部",
+    "example_pinyin": "quánbù",
+    "example_english": "all / entire"
   },
   {
     "rank": 85,
@@ -932,7 +1184,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight/divide",
     "mnemonic": "Originally a picture of a winnowing basket, borrowed for the pronoun 'its/their/that'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "其他人",
+    "example_pinyin": "qítā rén",
+    "example_english": "other people"
   },
   {
     "rank": 86,
@@ -943,7 +1198,10 @@
     "radical_pinyin": "èr",
     "radical_meaning": "two",
     "mnemonic": "此 (this) + 二 (two). This and that, a couple here and there: 'some', a few.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一些",
+    "example_pinyin": "yìxiē",
+    "example_english": "some"
   },
   {
     "rank": 87,
@@ -954,7 +1212,10 @@
     "radical_pinyin": "zhǔ",
     "radical_meaning": "dot",
     "mnemonic": "A flame steady on a lampstand. The fixed point everything centers on: the 'master', the main one.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "主意",
+    "example_pinyin": "zhǔyi",
+    "example_english": "idea"
   },
   {
     "rank": 88,
@@ -965,7 +1226,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (tree) + 羊 (sheep). A wooden model in a 'shape' / kind you can point to: 'this manner'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一样",
+    "example_pinyin": "yíyàng",
+    "example_english": "the same"
   },
   {
     "rank": 89,
@@ -976,7 +1240,10 @@
     "radical_pinyin": "wáng",
     "radical_meaning": "jade/king (radical)",
     "mnemonic": "王/玉 (jade) + 里 (inner lines). The natural grain running through jade: its inner 'logic', the reason.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "有道理",
+    "example_pinyin": "yǒu dàoli",
+    "example_english": "that makes sense"
   },
   {
     "rank": 90,
@@ -987,7 +1254,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "A pictograph of a heart with its chambers. The 'heart', and the seat of the mind.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "小心",
+    "example_pinyin": "xiǎoxīn",
+    "example_english": "be careful"
   },
   {
     "rank": 91,
@@ -998,7 +1268,10 @@
     "radical_pinyin": "nǚ",
     "radical_meaning": "woman (radical)",
     "mnemonic": "女 (woman) + 也 (also). The female counterpart to 他: 'she'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "她很美",
+    "example_pinyin": "tā hěn měi",
+    "example_english": "she is beautiful"
   },
   {
     "rank": 92,
@@ -1009,7 +1282,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (tree) with a mark at the 'base' of the trunk. The 'root', the origin, the source.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一本书",
+    "example_pinyin": "yì běn shū",
+    "example_english": "one book"
   },
   {
     "rank": 93,
@@ -1020,7 +1296,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife (radical)",
     "mnemonic": "A foot moving forward over a boat, with 刂 (knife) cutting ahead. What lies 'in front', 'before'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "以前",
+    "example_pinyin": "yǐqián",
+    "example_english": "before / in the past"
   },
   {
     "rank": 94,
@@ -1031,7 +1310,10 @@
     "radical_pinyin": "gǒng",
     "radical_meaning": "two hands",
     "mnemonic": "Two hands (廾) lifting the bar off a gate. Throw the doors 'open', start things up.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "开门",
+    "example_pinyin": "kāi mén",
+    "example_english": "open the door"
   },
   {
     "rank": 95,
@@ -1042,7 +1324,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 旦 (dawn). A person at daybreak, one thing ending and another starting: 'but', however.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "但是",
+    "example_pinyin": "dànshì",
+    "example_english": "but"
   },
   {
     "rank": 96,
@@ -1053,7 +1338,10 @@
     "radical_pinyin": "wéi",
     "radical_meaning": "enclosure",
     "mnemonic": "囗 (enclosure) + 大 (big). A person lying on a mat, the underlying 'cause' or basis of things.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "因为",
+    "example_pinyin": "yīnwèi",
+    "example_english": "because"
   },
   {
     "rank": 97,
@@ -1064,7 +1352,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) + 八 (divide). A mouth narrowing it down to 'only' this; or counting one animal.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一只猫",
+    "example_pinyin": "yì zhī māo",
+    "example_english": "one cat"
   },
   {
     "rank": 98,
@@ -1075,7 +1366,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "人 (person) behind 人 (person). One walking behind another, following: 'from', to follow.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "从这里",
+    "example_pinyin": "cóng zhèlǐ",
+    "example_english": "from here"
   },
   {
     "rank": 99,
@@ -1086,7 +1380,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "相 (mutual/look) over 心 (heart). Looking inward with the heart: to 'think', to long for.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我想你",
+    "example_pinyin": "wǒ xiǎng nǐ",
+    "example_english": "I miss you"
   },
   {
     "rank": 100,
@@ -1097,7 +1394,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) over a full granary. A household with real stores inside: 'solid', true, substantial.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "其实",
+    "example_pinyin": "qíshí",
+    "example_english": "actually"
   },
   {
     "rank": 101,
@@ -1108,7 +1408,10 @@
     "radical_pinyin": "rì",
     "radical_meaning": "sun",
     "mnemonic": "A circle with a line inside, the 'sun'; by extension a 'day'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "生日快乐",
+    "example_pinyin": "shēngrì kuàilè",
+    "example_english": "happy birthday"
   },
   {
     "rank": 102,
@@ -1119,7 +1422,10 @@
     "radical_pinyin": "chē",
     "radical_meaning": "vehicle/cart",
     "mnemonic": "冖 (cover) over 车 (chariot). Chariots massed under one banner: an 'army'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "军人",
+    "example_pinyin": "jūnrén",
+    "example_english": "a soldier"
   },
   {
     "rank": 103,
@@ -1130,7 +1436,10 @@
     "radical_pinyin": "lǎo",
     "radical_meaning": "old (radical)",
     "mnemonic": "Suffix turning a verb into the person who does it: 学者 (scholar), 作者 (author).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "记者",
+    "example_pinyin": "jìzhě",
+    "example_english": "a journalist"
   },
   {
     "rank": 104,
@@ -1141,7 +1450,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "音 (sound) over 心 (heart). The sound of the heart: your 'meaning', what you intend.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我同意",
+    "example_pinyin": "wǒ tóngyì",
+    "example_english": "I agree"
   },
   {
     "rank": 105,
@@ -1152,7 +1464,10 @@
     "radical_pinyin": "wú",
     "radical_meaning": "without",
     "mnemonic": "Originally a dancer with streamers, borrowed for 'nothing'. Empty hands: 'without'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "无所谓",
+    "example_pinyin": "wúsuǒwèi",
+    "example_english": "it doesn't matter"
   },
   {
     "rank": 106,
@@ -1163,7 +1478,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "strength",
     "mnemonic": "A picture of a flexed arm or a plough. Muscle and effort: 'strength', force.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "有力气",
+    "example_pinyin": "yǒu lìqi",
+    "example_english": "to have strength"
   },
   {
     "rank": 107,
@@ -1174,7 +1492,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) + 匕. Once meant 'snake'; now the neutral pronoun 'it'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "它很可爱",
+    "example_pinyin": "tā hěn kě'ài",
+    "example_english": "it's cute"
   },
   {
     "rank": 108,
@@ -1185,7 +1506,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "Two hands passing something across: 'with', 'and', to give.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我与你",
+    "example_pinyin": "wǒ yǔ nǐ",
+    "example_english": "you and I"
   },
   {
     "rank": 109,
@@ -1196,7 +1520,10 @@
     "radical_pinyin": "cháng",
     "radical_meaning": "long",
     "mnemonic": "A picture of long flowing hair on an old person: 'long', and by extension to grow / elder.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很长",
+    "example_pinyin": "hěn cháng",
+    "example_english": "very long"
   },
   {
     "rank": 110,
@@ -1207,7 +1534,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 巴. A hand grasping the handle: to 'hold'; also marks the object you act on.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一把刀",
+    "example_pinyin": "yì bǎ dāo",
+    "example_english": "a knife"
   },
   {
     "rank": 111,
@@ -1218,7 +1548,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (wood) + 几 (small table). A wooden contraption: a 'machine', a device.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "飞机",
+    "example_pinyin": "fēijī",
+    "example_english": "airplane"
   },
   {
     "rank": 112,
@@ -1229,7 +1562,10 @@
     "radical_pinyin": "shí",
     "radical_meaning": "ten",
     "mnemonic": "A vertical crossing a horizontal, a full grid: 'ten', a complete set.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "十块钱",
+    "example_pinyin": "shí kuài qián",
+    "example_english": "ten yuan"
   },
   {
     "rank": 113,
@@ -1240,7 +1576,10 @@
     "radical_pinyin": "shì",
     "radical_meaning": "clan",
     "mnemonic": "Originally an eye pierced (a subjugated person); now 'the people', the citizenry.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "人民",
+    "example_pinyin": "rénmín",
+    "example_english": "the people"
   },
   {
     "rank": 114,
@@ -1251,7 +1590,10 @@
     "radical_pinyin": "zhú",
     "radical_meaning": "bamboo (radical)",
     "mnemonic": "竹 (bamboo) + 弟 (younger brother). Bamboo joints in sequence: marks order, 第一 = first.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "第一名",
+    "example_pinyin": "dì yī míng",
+    "example_english": "first place"
   },
   {
     "rank": 115,
@@ -1262,7 +1604,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight/divide",
     "mnemonic": "八 (divide) over 厶 (private). Splitting apart the private: making it 'public', shared.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "公司",
+    "example_pinyin": "gōngsī",
+    "example_english": "company"
   },
   {
     "rank": 116,
@@ -1273,7 +1618,10 @@
     "radical_pinyin": "zhǐ",
     "radical_meaning": "stop/foot",
     "mnemonic": "止 (foot) + 匕 (person). Where a person halts and stands: right 'here', 'this'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "从此",
+    "example_pinyin": "cóngcǐ",
+    "example_english": "from now on"
   },
   {
     "rank": 117,
@@ -1284,7 +1632,10 @@
     "radical_pinyin": "jǐ",
     "radical_meaning": "self",
     "mnemonic": "Like 己 (self) but sealed off at the top: the thing is closed, done, 'already' finished.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "已经走了",
+    "example_pinyin": "yǐjīng zǒu le",
+    "example_english": "has already left"
   },
   {
     "rank": 118,
@@ -1295,7 +1646,10 @@
     "radical_pinyin": "gōng",
     "radical_meaning": "work",
     "mnemonic": "A picture of a carpenter's square or rammer, a tool of labor: 'work', craft.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "工人",
+    "example_pinyin": "gōngrén",
+    "example_english": "a worker"
   },
   {
     "rank": 119,
@@ -1306,7 +1660,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 吏 (official). An official sent to 'make' things happen: to cause, to dispatch.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "使用",
+    "example_pinyin": "shǐyòng",
+    "example_english": "to use"
   },
   {
     "rank": 120,
@@ -1317,7 +1674,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart (radical)",
     "mnemonic": "忄 (heart) + 青 (blue/pure). Pure feeling welling from the heart: 'emotion'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "感情",
+    "example_pinyin": "gǎnqíng",
+    "example_english": "feelings / emotion"
   },
   {
     "rank": 121,
@@ -1328,7 +1688,10 @@
     "radical_pinyin": "rì",
     "radical_meaning": "sun",
     "mnemonic": "日 (sun) + 月 (moon). Sun and moon together, the two brightest things: 'bright', clear.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "明天",
+    "example_pinyin": "míngtiān",
+    "example_english": "tomorrow"
   },
   {
     "rank": 122,
@@ -1339,7 +1702,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart (radical)",
     "mnemonic": "忄 (heart) + 生 (to be born). What the heart is born with: your inborn 'nature'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "性格",
+    "example_pinyin": "xìnggé",
+    "example_english": "personality"
   },
   {
     "rank": 123,
@@ -1350,7 +1716,10 @@
     "radical_pinyin": "shǐ",
     "radical_meaning": "arrow",
     "mnemonic": "矢 (arrow) + 口 (mouth). Words flying straight and true like arrows: to 'know', to state with certainty.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我不知道",
+    "example_pinyin": "wǒ bù zhīdào",
+    "example_english": "I don't know"
   },
   {
     "rank": 124,
@@ -1361,7 +1730,10 @@
     "radical_pinyin": "rù",
     "radical_meaning": "to enter",
     "mnemonic": "入 (enter) over 王/玉 (jade). Flawless jade brought in, perfect and 'whole', complete.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "全部",
+    "example_pinyin": "quánbù",
+    "example_english": "all of it"
   },
   {
     "rank": 125,
@@ -1372,7 +1744,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "Three stacked horizontal lines: 'three'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "三个",
+    "example_pinyin": "sān gè",
+    "example_english": "three of them"
   },
   {
     "rank": 126,
@@ -1383,7 +1758,10 @@
     "radical_pinyin": "yòu",
     "radical_meaning": "hand/again",
     "mnemonic": "A picture of a right hand. The hand that does it once more: 'again', also.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "又来了",
+    "example_pinyin": "yòu lái le",
+    "example_english": "here we go again"
   },
   {
     "rank": 127,
@@ -1394,7 +1772,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight",
     "mnemonic": "A gate with a bar across it. Drop the bar to 'close' the pass; what passes 'concerns' you.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "关门",
+    "example_pinyin": "guān mén",
+    "example_english": "close the door"
   },
   {
     "rank": 128,
@@ -1405,7 +1786,10 @@
     "radical_pinyin": "huǒ",
     "radical_meaning": "fire (radical)",
     "mnemonic": "占 (occupy) over 灬 (fire). Tiny sparks of fire: a 'dot', a point, an o'clock mark.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "三点",
+    "example_pinyin": "sān diǎn",
+    "example_english": "three o'clock"
   },
   {
     "rank": 129,
@@ -1416,7 +1800,10 @@
     "radical_pinyin": "zhǐ",
     "radical_meaning": "stop/foot",
     "mnemonic": "一 (a line/goal) + 止 (foot). A foot stopping squarely on the line: 'upright', correct.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "正在吃",
+    "example_pinyin": "zhèngzài chī",
+    "example_english": "is eating right now"
   },
   {
     "rank": 130,
@@ -1427,7 +1814,10 @@
     "radical_pinyin": "yè",
     "radical_meaning": "business",
     "mnemonic": "Originally a notched board for hanging bells. Now one's trade, 'business', occupation.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "作业",
+    "example_pinyin": "zuòyè",
+    "example_english": "homework"
   },
   {
     "rank": 131,
@@ -1438,7 +1828,10 @@
     "radical_pinyin": "xī",
     "radical_meaning": "dusk/evening",
     "mnemonic": "夕 (evening) + 卜 (divination). Reading omens at dusk, away from home: 'outside', external.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "外国人",
+    "example_pinyin": "wàiguó rén",
+    "example_english": "a foreigner"
   },
   {
     "rank": 132,
@@ -1449,7 +1842,10 @@
     "radical_pinyin": "cùn",
     "radical_meaning": "inch/hand",
     "mnemonic": "爿 (bed/table) + 月 (meat) + 寸 (hand). A hand offering meat at the altar: about to act, 'will'; as 'jiàng', a general.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "将来",
+    "example_pinyin": "jiānglái",
+    "example_english": "the future"
   },
   {
     "rank": 133,
@@ -1460,7 +1856,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "A balance with two equal pans hanging: 'two', a pair, both.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "两个人",
+    "example_pinyin": "liǎng gè rén",
+    "example_english": "two people"
   },
   {
     "rank": 134,
@@ -1471,7 +1870,10 @@
     "radical_pinyin": "gāo",
     "radical_meaning": "tall",
     "mnemonic": "A picture of a tall tower or gate-building: 'high', tall.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很高",
+    "example_pinyin": "hěn gāo",
+    "example_english": "very tall"
   },
   {
     "rank": 135,
@@ -1482,7 +1884,10 @@
     "radical_pinyin": "mén",
     "radical_meaning": "gate/door",
     "mnemonic": "门 (gate) + 日 (sun). Sunlight slipping through the gate's crack: the 'space between'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "房间",
+    "example_pinyin": "fángjiān",
+    "example_english": "room"
   },
   {
     "rank": 136,
@@ -1493,7 +1898,10 @@
     "radical_pinyin": "tián",
     "radical_meaning": "field",
     "mnemonic": "A field (田) with a shoot pushing out the top: where things come 'from', the cause.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "理由",
+    "example_pinyin": "lǐyóu",
+    "example_english": "reason"
   },
   {
     "rank": 137,
@@ -1504,7 +1912,10 @@
     "radical_pinyin": "mén",
     "radical_meaning": "gate/door",
     "mnemonic": "门 (gate) + 口 (mouth). A mouth at the gate calling in: to 'ask'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "问问题",
+    "example_pinyin": "wèn wèntí",
+    "example_english": "ask a question"
   },
   {
     "rank": 138,
@@ -1515,7 +1926,10 @@
     "radical_pinyin": "chì",
     "radical_meaning": "step (radical)",
     "mnemonic": "彳 (step) + 艮 (stubborn). Going to an extreme degree: 'very', a lot.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "很好",
+    "example_pinyin": "hěn hǎo",
+    "example_english": "very good"
   },
   {
     "rank": 139,
@@ -1526,7 +1940,10 @@
     "radical_pinyin": "yuē",
     "radical_meaning": "to say",
     "mnemonic": "冒 (to risk) over 取 (to seize). Grabbing the top prize: the 'most', the -est.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "最好",
+    "example_pinyin": "zuì hǎo",
+    "example_english": "the best"
   },
   {
     "rank": 140,
@@ -1537,7 +1954,10 @@
     "radical_pinyin": "lǐ",
     "radical_meaning": "village/inside",
     "mnemonic": "A person carrying a heavy load on their back: 'heavy', weighty; as 'chóng', to repeat / a layer.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "很重",
+    "example_pinyin": "hěn zhòng",
+    "example_english": "very heavy"
   },
   {
     "rank": 141,
@@ -1548,7 +1968,10 @@
     "radical_pinyin": "gān",
     "radical_meaning": "dry/shield",
     "mnemonic": "Two figures standing side by side: to combine, 'and'; also intensifies a negative.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "并不难",
+    "example_pinyin": "bìng bù nán",
+    "example_english": "not difficult at all"
   },
   {
     "rank": 142,
@@ -1559,7 +1982,10 @@
     "radical_pinyin": "niú",
     "radical_meaning": "ox/cattle",
     "mnemonic": "牜 (ox) + 勿 (do not). Cattle, the most valued possession: 'things', goods, matter.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "动物",
+    "example_pinyin": "dòngwù",
+    "example_english": "animal"
   },
   {
     "rank": 143,
@@ -1570,7 +1996,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand",
     "mnemonic": "A palm with five fingers spread: the 'hand'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "洗手",
+    "example_pinyin": "xǐ shǒu",
+    "example_english": "wash hands"
   },
   {
     "rank": 144,
@@ -1581,7 +2010,10 @@
     "radical_pinyin": "guǎng",
     "radical_meaning": "shelter/roof",
     "mnemonic": "广 (shelter) + 心 (heart, in older form). What the heart says you 'ought' to do; to respond.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "应该",
+    "example_pinyin": "yīnggāi",
+    "example_english": "should"
   },
   {
     "rank": 145,
@@ -1592,7 +2024,10 @@
     "radical_pinyin": "gē",
     "radical_meaning": "halberd/spear",
     "mnemonic": "占 (occupy) + 戈 (halberd). Seizing ground with weapons: 'war', to fight.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "战争",
+    "example_pinyin": "zhànzhēng",
+    "example_english": "war"
   },
   {
     "rank": 146,
@@ -1603,7 +2038,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A house with a window (口) facing a direction: 'towards', to face.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "向前走",
+    "example_pinyin": "xiàng qián zǒu",
+    "example_english": "walk forward"
   },
   {
     "rank": 147,
@@ -1614,7 +2052,10 @@
     "radical_pinyin": "dà",
     "radical_meaning": "big",
     "mnemonic": "Simplified from 頭. The topmost part of the body: the 'head', the top.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "头疼",
+    "example_pinyin": "tóu téng",
+    "example_english": "headache"
   },
   {
     "rank": 148,
@@ -1625,7 +2066,10 @@
     "radical_pinyin": "wén",
     "radical_meaning": "writing",
     "mnemonic": "Crossed lines, originally tattoo patterns: marks and 'writing', culture.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "中文",
+    "example_pinyin": "Zhōngwén",
+    "example_english": "Chinese language"
   },
   {
     "rank": 149,
@@ -1636,7 +2080,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 本 (root/base). A person's root and frame: the 'body', the form.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "身体",
+    "example_pinyin": "shēntǐ",
+    "example_english": "body / health"
   },
   {
     "rank": 150,
@@ -1647,7 +2094,10 @@
     "radical_pinyin": "pū",
     "radical_meaning": "to tap/strike",
     "mnemonic": "正 (upright) + 攵 (action). Acting to set things upright: 'government', politics.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "政府",
+    "example_pinyin": "zhèngfǔ",
+    "example_english": "government"
   },
   {
     "rank": 151,
@@ -1658,7 +2108,10 @@
     "radical_pinyin": "yáng",
     "radical_meaning": "sheep",
     "mnemonic": "羊 (sheep) over 大 (big). A big fine sheep, a feast for the eyes: 'beautiful'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很美",
+    "example_pinyin": "hěn měi",
+    "example_english": "very beautiful"
   },
   {
     "rank": 152,
@@ -1669,7 +2122,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "eye",
     "mnemonic": "木 (tree) + 目 (eye). An eye examining a tree, two things facing: 'mutual'; as 'xiàng', appearance.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "相信我",
+    "example_pinyin": "xiāngxìn wǒ",
+    "example_english": "trust me"
   },
   {
     "rank": 153,
@@ -1680,7 +2136,10 @@
     "radical_pinyin": "jiàn",
     "radical_meaning": "to see",
     "mnemonic": "An eye (目) on legs (儿). Eyes that move out to look: to 'see', to meet.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "再见",
+    "example_pinyin": "zàijiàn",
+    "example_english": "goodbye"
   },
   {
     "rank": 154,
@@ -1691,7 +2150,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "clothing (radical)",
     "mnemonic": "衤 (clothing) + 皮 (skin). A cloth covering you like skin: a 'quilt'; also marks the passive 'by'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "被打了",
+    "example_pinyin": "bèi dǎ le",
+    "example_english": "got hit"
   },
   {
     "rank": 155,
@@ -1702,7 +2164,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife (radical)",
     "mnemonic": "禾 (grain) + 刂 (knife). A sharp blade reaping grain, a good return: 'profit', advantage.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "顺利",
+    "example_pinyin": "shùnlì",
+    "example_english": "smoothly"
   },
   {
     "rank": 156,
@@ -1713,7 +2178,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 十 (ten). A squad of ten; now mainly the question word 什么 (what).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "什么",
+    "example_pinyin": "shénme",
+    "example_english": "what"
   },
   {
     "rank": 157,
@@ -1724,7 +2192,10 @@
     "radical_pinyin": "èr",
     "radical_meaning": "two",
     "mnemonic": "Two horizontal lines: 'two'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "二月",
+    "example_pinyin": "èr yuè",
+    "example_english": "February"
   },
   {
     "rank": 158,
@@ -1735,7 +2206,10 @@
     "radical_pinyin": "zhú",
     "radical_meaning": "bamboo (radical)",
     "mnemonic": "竹 (bamboo) + 寺 (temple). Bamboo slips sorted by 'rank'; sorting takes time, so also 'to wait'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "等一下",
+    "example_pinyin": "děng yíxià",
+    "example_english": "wait a moment"
   },
   {
     "rank": 159,
@@ -1746,7 +2220,10 @@
     "radical_pinyin": "tóu",
     "radical_meaning": "lid",
     "mnemonic": "立 (to stand) over 厂 (cliff/factory). Bringing something forth to stand on its own: to 'produce'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "生产",
+    "example_pinyin": "shēngchǎn",
+    "example_english": "to produce"
   },
   {
     "rank": 160,
@@ -1757,7 +2234,10 @@
     "radical_pinyin": "gē",
     "radical_meaning": "halberd/spear",
     "mnemonic": "戈 (halberd) guarding a border (囗) and land (一). One choice 'or' another to defend.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "或者",
+    "example_pinyin": "huòzhě",
+    "example_english": "or"
   },
   {
     "rank": 161,
@@ -1768,7 +2248,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "axe",
     "mnemonic": "立 (stand) + 木 (tree) + 斤 (axe). Freshly axed wood standing ready: 'new', fresh.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "新车",
+    "example_pinyin": "xīn chē",
+    "example_english": "a new car"
   },
   {
     "rank": 162,
@@ -1779,7 +2262,10 @@
     "radical_pinyin": "jǐ",
     "radical_meaning": "self",
     "mnemonic": "A coiled cord, borrowed for 'self'. The thread that is your own.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "自己",
+    "example_pinyin": "zìjǐ",
+    "example_english": "oneself"
   },
   {
     "rank": 163,
@@ -1790,7 +2276,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife (radical)",
     "mnemonic": "A branch trimmed by a knife (刂) to shape: to 'make', to control, a system.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "制度",
+    "example_pinyin": "zhìdù",
+    "example_english": "system"
   },
   {
     "rank": 164,
@@ -1801,7 +2290,10 @@
     "radical_pinyin": "shēn",
     "radical_meaning": "body",
     "mnemonic": "A picture of a pregnant belly in profile: the 'body', the torso.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "身体",
+    "example_pinyin": "shēntǐ",
+    "example_english": "body"
   },
   {
     "rank": 165,
@@ -1812,7 +2304,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "A tree (木) with round fruit (田) on top: 'fruit', and by extension a 'result'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "水果",
+    "example_pinyin": "shuǐguǒ",
+    "example_english": "fruit"
   },
   {
     "rank": 166,
@@ -1823,7 +2318,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "strength",
     "mnemonic": "力 (strength) + 口 (mouth). Putting muscle and voice behind something: to 'add', to increase.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "加油",
+    "example_pinyin": "jiāyóu",
+    "example_english": "come on / keep going"
   },
   {
     "rank": 167,
@@ -1834,7 +2332,10 @@
     "radical_pinyin": "xī",
     "radical_meaning": "west",
     "mnemonic": "A bird settling in its nest at sundown, when the sun is in the 'west'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "东西",
+    "example_pinyin": "dōngxi",
+    "example_english": "thing(s)"
   },
   {
     "rank": 168,
@@ -1845,7 +2346,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "axe",
     "mnemonic": "其 (basket) + 斤 (axe). Mostly phonetic now, used in transliterations like 斯坦 (-stan).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "斯文",
+    "example_pinyin": "sīwén",
+    "example_english": "refined / gentle"
   },
   {
     "rank": 169,
@@ -1856,7 +2360,10 @@
     "radical_pinyin": "yuè",
     "radical_meaning": "moon",
     "mnemonic": "A crescent moon: 'moon', and the lunar 'month'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一个月",
+    "example_pinyin": "yí gè yuè",
+    "example_english": "one month"
   },
   {
     "rank": 170,
@@ -1867,7 +2374,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 舌 (tongue). The tongue working with speech: 'words', talk.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "说话",
+    "example_pinyin": "shuōhuà",
+    "example_english": "to speak"
   },
   {
     "rank": 171,
@@ -1878,7 +2388,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A lid (亼) fitting over a vessel (口): to 'join', to close, to fit together.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "合适",
+    "example_pinyin": "héshì",
+    "example_english": "suitable"
   },
   {
     "rank": 172,
@@ -1889,7 +2402,10 @@
     "radical_pinyin": "wéi",
     "radical_meaning": "enclosure",
     "mnemonic": "A spiral within a spiral: to circle round and 'return'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "回家",
+    "example_pinyin": "huí jiā",
+    "example_english": "go home"
   },
   {
     "rank": 173,
@@ -1900,7 +2416,10 @@
     "radical_pinyin": "niú",
     "radical_meaning": "ox (radical)",
     "mnemonic": "牜 (ox) + 寺 (temple). A prize bull set aside for temple sacrifice: 'special', singled out.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "特别",
+    "example_pinyin": "tèbié",
+    "example_english": "especially"
   },
   {
     "rank": 174,
@@ -1911,7 +2430,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 弋 (stake). One person standing in for another: to 'replace'; a 'generation'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "代表",
+    "example_pinyin": "dàibiǎo",
+    "example_english": "to represent"
   },
   {
     "rank": 175,
@@ -1922,7 +2444,10 @@
     "radical_pinyin": "jiōng",
     "radical_meaning": "borders",
     "mnemonic": "入 (enter) inside an enclosure (冂): what is 'within', the inside.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "室内",
+    "example_pinyin": "shìnèi",
+    "example_english": "indoors"
   },
   {
     "rank": 176,
@@ -1933,7 +2458,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 言 (words). A person true to their word: 'trust', to believe; also a 'letter'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "写信",
+    "example_pinyin": "xiě xìn",
+    "example_english": "write a letter"
   },
   {
     "rank": 177,
@@ -1944,7 +2472,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "clothing",
     "mnemonic": "毛 (fur) + 衣 (clothing). The furry outer coat, the 'surface'; to show outwardly; a 'table'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "手表",
+    "example_pinyin": "shǒubiǎo",
+    "example_english": "watch"
   },
   {
     "rank": 178,
@@ -1955,7 +2486,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (upright person) + 匕 (inverted person). One form flipping into another: to 'change', transform.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "变化",
+    "example_pinyin": "biànhuà",
+    "example_english": "change"
   },
   {
     "rank": 179,
@@ -1966,7 +2500,10 @@
     "radical_pinyin": "lǎo",
     "radical_meaning": "old",
     "mnemonic": "A bent figure with long hair leaning on a stick: 'old', aged.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "老师",
+    "example_pinyin": "lǎoshī",
+    "example_english": "teacher"
   },
   {
     "rank": 180,
@@ -1977,7 +2514,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 合 (join). Handing over silk thread to join one to another: to 'give'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "给我",
+    "example_pinyin": "gěi wǒ",
+    "example_english": "give it to me"
   },
   {
     "rank": 181,
@@ -1988,7 +2528,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "Three tens (十) joined, thirty years, one 'generation'; by extension the 'world', an age.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "世界",
+    "example_pinyin": "shìjiè",
+    "example_english": "the world"
   },
   {
     "rank": 182,
@@ -1999,7 +2542,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 立 (to stand). Where a person stands in rank: a 'position', a seat.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一位老师",
+    "example_pinyin": "yí wèi lǎoshī",
+    "example_english": "a teacher"
   },
   {
     "rank": 183,
@@ -2010,7 +2556,10 @@
     "radical_pinyin": "qiàn",
     "radical_meaning": "to lack/owe",
     "mnemonic": "冫 (ice) + 欠 (to yawn). Hesitating, taking turns: an 'occasion', the next in order.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "第一次",
+    "example_pinyin": "dì yī cì",
+    "example_english": "the first time"
   },
   {
     "rank": 184,
@@ -2021,7 +2570,10 @@
     "radical_pinyin": "guǎng",
     "radical_meaning": "shelter/roof",
     "mnemonic": "广 (shelter) + 又 (hand). A hand measuring under a roof: a 'degree', an extent.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "温度",
+    "example_pinyin": "wēndù",
+    "example_english": "temperature"
   },
   {
     "rank": 185,
@@ -2032,7 +2584,10 @@
     "radical_pinyin": "mén",
     "radical_meaning": "gate/door",
     "mnemonic": "A picture of a two-leaf swinging door: a 'gate', a door.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "开门",
+    "example_pinyin": "kāi mén",
+    "example_english": "open the door"
   },
   {
     "rank": 186,
@@ -2043,7 +2598,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 壬 (to carry). Loading a duty onto a person: to 'appoint', a responsibility.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "任务",
+    "example_pinyin": "rènwu",
+    "example_english": "task"
   },
   {
     "rank": 187,
@@ -2054,7 +2612,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "cloth",
     "mnemonic": "尚 (esteem) + 巾 (cloth). The everyday cloth you wear all the time: 'often', constant, ordinary.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "非常好",
+    "example_pinyin": "fēicháng hǎo",
+    "example_english": "very good"
   },
   {
     "rank": 188,
@@ -2065,7 +2626,10 @@
     "radical_pinyin": "ér",
     "radical_meaning": "legs/child",
     "mnemonic": "A foot (止) striding ahead of a person (儿): going 'first', before.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "先生",
+    "example_pinyin": "xiānsheng",
+    "example_english": "mister / sir"
   },
   {
     "rank": 189,
@@ -2076,7 +2640,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 每 (every). Every river's water gathering into one vast body: the 'sea'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "大海",
+    "example_pinyin": "dàhǎi",
+    "example_english": "the sea"
   },
   {
     "rank": 190,
@@ -2087,7 +2654,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 甬 (path). Moving freely along an open path: to 'go through', connect.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "通知",
+    "example_pinyin": "tōngzhī",
+    "example_english": "to notify"
   },
   {
     "rank": 191,
@@ -2098,7 +2668,10 @@
     "radical_pinyin": "pū",
     "radical_meaning": "to tap/strike",
     "mnemonic": "孝 (filial) + 攵 (to tap). Tapping a child to instruct them: to 'teach'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "教书",
+    "example_pinyin": "jiāo shū",
+    "example_english": "to teach"
   },
   {
     "rank": 192,
@@ -2109,7 +2682,10 @@
     "radical_pinyin": "ér",
     "radical_meaning": "legs/child",
     "mnemonic": "A child with an open fontanelle on top: a 'child', a son; also the -r suffix.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "儿子",
+    "example_pinyin": "érzi",
+    "example_english": "son"
   },
   {
     "rank": 193,
@@ -2120,7 +2696,10 @@
     "radical_pinyin": "chǎng",
     "radical_meaning": "cliff/slope",
     "mnemonic": "厂 (cliff) + 泉 (spring). A spring at the foot of a cliff: the 'source', the origin.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "原来",
+    "example_pinyin": "yuánlái",
+    "example_english": "so it turns out"
   },
   {
     "rank": 194,
@@ -2131,7 +2710,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "Simplified from 東: the sun (日) rising behind a tree, the direction of dawn: 'east'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "东边",
+    "example_pinyin": "dōngbian",
+    "example_english": "the east side"
   },
   {
     "rank": 195,
@@ -2142,7 +2724,10 @@
     "radical_pinyin": "shì",
     "radical_meaning": "scholar",
     "mnemonic": "Simplified from 聲, a chime struck and heard by the ear: 'sound', voice.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "大声",
+    "example_pinyin": "dàshēng",
+    "example_english": "loud"
   },
   {
     "rank": 196,
@@ -2153,7 +2738,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 是 (is). A hand raising something up: to 'lift', to bring up / mention.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "提问",
+    "example_pinyin": "tíwèn",
+    "example_english": "to ask a question"
   },
   {
     "rank": 197,
@@ -2164,7 +2752,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "to stand",
     "mnemonic": "A person standing on the ground (一), arms out: to 'stand', upright.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "立刻",
+    "example_pinyin": "lìkè",
+    "example_english": "immediately"
   },
   {
     "rank": 198,
@@ -2175,7 +2766,10 @@
     "radical_pinyin": "yòu",
     "radical_meaning": "hand/again",
     "mnemonic": "A hand (又) reaching out to grab a person from behind: to 'reach', to catch up; 'and'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "以及",
+    "example_pinyin": "yǐjí",
+    "example_english": "as well as"
   },
   {
     "rank": 199,
@@ -2186,7 +2780,10 @@
     "radical_pinyin": "bǐ",
     "radical_meaning": "compare",
     "mnemonic": "Two people standing side by side, matched up: to 'compare', a ratio.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "比较好",
+    "example_pinyin": "bǐjiào hǎo",
+    "example_english": "relatively better"
   },
   {
     "rank": 200,
@@ -2197,7 +2794,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) over 贝 (shell/money). A mouth to feed on the payroll: a 'member', an employee.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "员工",
+    "example_pinyin": "yuángōng",
+    "example_english": "employee"
   },
   {
     "rank": 201,
@@ -2208,7 +2808,10 @@
     "radical_pinyin": "jiǎo",
     "radical_meaning": "horn",
     "mnemonic": "角 (horn) + 刀 (knife) + 牛 (ox). Cutting an ox apart by the horns: to 'divide', to solve, to explain.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "我不解",
+    "example_pinyin": "wǒ bù jiě",
+    "example_english": "I don't understand"
   },
   {
     "rank": 202,
@@ -2219,7 +2822,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water",
     "mnemonic": "A central current with droplets on each side: flowing 'water'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "喝水",
+    "example_pinyin": "hē shuǐ",
+    "example_english": "drink water"
   },
   {
     "rank": 203,
@@ -2230,7 +2836,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "夕 (evening) + 口 (mouth). In the dark you call out your 'name' so others know you.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "名字",
+    "example_pinyin": "míngzi",
+    "example_english": "name"
   },
   {
     "rank": 204,
@@ -2241,7 +2850,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "eye",
     "mnemonic": "Originally a vessel filled to the brim, nothing faked: 'true', genuine, real.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "真的吗",
+    "example_pinyin": "zhēn de ma",
+    "example_english": "really?"
   },
   {
     "rank": 205,
@@ -2252,7 +2864,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 仑 (order). Putting words in logical order: to 'discuss', a 'theory'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "讨论",
+    "example_pinyin": "tǎolùn",
+    "example_english": "to discuss"
   },
   {
     "rank": 206,
@@ -2263,7 +2878,10 @@
     "radical_pinyin": "zhǐ",
     "radical_meaning": "to go/follow",
     "mnemonic": "A figure stopping at a stool: a 'place' to settle; as 'chǔ', to dwell, to handle.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "到处",
+    "example_pinyin": "dàochù",
+    "example_english": "everywhere"
   },
   {
     "rank": 207,
@@ -2274,7 +2892,10 @@
     "radical_pinyin": "zǒu",
     "radical_meaning": "to walk/run",
     "mnemonic": "A swinging-armed figure (土) over a foot (止): a person striding, to 'walk'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "走路",
+    "example_pinyin": "zǒu lù",
+    "example_english": "to walk"
   },
   {
     "rank": 208,
@@ -2285,7 +2906,10 @@
     "radical_pinyin": "zhǔ",
     "radical_meaning": "dot",
     "mnemonic": "Simplified from 義 (sheep over 我). The right and proper thing: 'righteousness', meaning.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "意义",
+    "example_pinyin": "yìyì",
+    "example_english": "meaning"
   },
   {
     "rank": 209,
@@ -2296,7 +2920,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "夂 (foot arriving) + 口 (mouth). Each person arriving in turn: 'each', every.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "各种",
+    "example_pinyin": "gèzhǒng",
+    "example_english": "all kinds"
   },
   {
     "rank": 210,
@@ -2307,7 +2934,10 @@
     "radical_pinyin": "rù",
     "radical_meaning": "to enter",
     "mnemonic": "An arrowhead or a root pushing inward: to 'enter', to go in.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "入口",
+    "example_pinyin": "rùkǒu",
+    "example_english": "entrance"
   },
   {
     "rank": 211,
@@ -2318,7 +2948,10 @@
     "radical_pinyin": "jǐ",
     "radical_meaning": "small table",
     "mnemonic": "A small low table or stool; borrowed for 'how many', a few.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "几个",
+    "example_pinyin": "jǐ gè",
+    "example_english": "how many / a few"
   },
   {
     "rank": 212,
@@ -2329,7 +2962,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A picture of an open mouth: 'mouth', an opening.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "门口",
+    "example_pinyin": "ménkǒu",
+    "example_english": "doorway"
   },
   {
     "rank": 213,
@@ -2340,7 +2976,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 人 (person). Speaking up to acknowledge someone: to 'recognize', to admit.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "认识你",
+    "example_pinyin": "rènshi nǐ",
+    "example_english": "nice to meet you"
   },
   {
     "rank": 214,
@@ -2351,7 +2990,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "夂 + 木 (wood). A long slender twig: the counter for long thin things, a 'strip'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一条路",
+    "example_pinyin": "yì tiáo lù",
+    "example_english": "a road"
   },
   {
     "rank": 215,
@@ -2362,7 +3004,10 @@
     "radical_pinyin": "gān",
     "radical_meaning": "dry/shield",
     "mnemonic": "A balance beam hanging level: 'flat', even, calm.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "平时",
+    "example_pinyin": "píngshí",
+    "example_english": "usually"
   },
   {
     "rank": 216,
@@ -2373,7 +3018,10 @@
     "radical_pinyin": "mì",
     "radical_meaning": "silk",
     "mnemonic": "A hand tying up silk threads: to 'tie', a 'connection', a system.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "关系",
+    "example_pinyin": "guānxi",
+    "example_english": "relationship"
   },
   {
     "rank": 217,
@@ -2384,7 +3032,10 @@
     "radical_pinyin": "qì",
     "radical_meaning": "air/breath",
     "mnemonic": "Wisps of vapor rising: 'air', breath, the life-force qi.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "天气",
+    "example_pinyin": "tiānqì",
+    "example_english": "weather"
   },
   {
     "rank": 218,
@@ -2395,7 +3046,10 @@
     "radical_pinyin": "yè",
     "radical_meaning": "page/head",
     "mnemonic": "是 (is) + 页 (head/page). The heading at the top of a page: a 'topic', a question.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "问题",
+    "example_pinyin": "wèntí",
+    "example_english": "problem / question"
   },
   {
     "rank": 219,
@@ -2406,7 +3060,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 舌 (tongue). A tongue wet with water, still moving: 'alive', to live.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "生活",
+    "example_pinyin": "shēnghuó",
+    "example_english": "life"
   },
   {
     "rank": 220,
@@ -2417,7 +3074,10 @@
     "radical_pinyin": "xiǎo",
     "radical_meaning": "small",
     "mnemonic": "Literary 'you'; survives mainly in names and 尔后 (thereafter), 偶尔 (occasionally).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "偶尔",
+    "example_pinyin": "ǒu'ěr",
+    "example_english": "occasionally"
   },
   {
     "rank": 221,
@@ -2428,7 +3088,10 @@
     "radical_pinyin": "yuē",
     "radical_meaning": "to say",
     "mnemonic": "A hand striking to renew: to 'change' (gēng); by extension 'even more' (gèng).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "更好",
+    "example_pinyin": "gèng hǎo",
+    "example_english": "even better"
   },
   {
     "rank": 222,
@@ -2439,7 +3102,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife (radical)",
     "mnemonic": "A knife (刂) cutting bone apart: to 'separate', distinguish; hence 'other', and 'don't'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "别走",
+    "example_pinyin": "bié zǒu",
+    "example_english": "don't go"
   },
   {
     "rank": 223,
@@ -2450,7 +3116,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 丁 (nail). A hand driving a nail: to 'hit', to strike; a hugely versatile verb.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "打电话",
+    "example_pinyin": "dǎ diànhuà",
+    "example_english": "make a phone call"
   },
   {
     "rank": 224,
@@ -2461,7 +3130,10 @@
     "radical_pinyin": "nǚ",
     "radical_meaning": "woman",
     "mnemonic": "A kneeling figure with hands folded: 'woman', female. A core radical.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "女人",
+    "example_pinyin": "nǚrén",
+    "example_english": "woman"
   },
   {
     "rank": 225,
@@ -2472,7 +3144,10 @@
     "radical_pinyin": "yòu",
     "radical_meaning": "hand/again",
     "mnemonic": "Simplified from 變. Things twisting into a new state: to 'change', transform.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "变了",
+    "example_pinyin": "biàn le",
+    "example_english": "it changed"
   },
   {
     "rank": 226,
@@ -2483,7 +3158,10 @@
     "radical_pinyin": "wéi",
     "radical_meaning": "enclosure",
     "mnemonic": "Originally four lines; now an enclosure with split legs inside: 'four'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "四个",
+    "example_pinyin": "sì gè",
+    "example_english": "four"
   },
   {
     "rank": 227,
@@ -2494,7 +3172,10 @@
     "radical_pinyin": "shì",
     "radical_meaning": "altar/spirit (radical)",
     "mnemonic": "礻 (altar) + 申 (to state/lightning). The power revealed at the altar: a 'god', a spirit.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "精神",
+    "example_pinyin": "jīngshén",
+    "example_english": "spirit / vigor"
   },
   {
     "rank": 228,
@@ -2505,7 +3186,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "Gathering many threads into one knot at the heart: 'total', overall, always.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "总是",
+    "example_pinyin": "zǒngshì",
+    "example_english": "always"
   },
   {
     "rank": 229,
@@ -2516,7 +3200,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 可 (can). A person shouldering a load and asking: 'what?', 'why?'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "如何",
+    "example_pinyin": "rúhé",
+    "example_english": "how"
   },
   {
     "rank": 230,
@@ -2527,7 +3214,10 @@
     "radical_pinyin": "tián",
     "radical_meaning": "field-ish",
     "mnemonic": "Simplified from 電: rain (雨) with a lightning streak below. Lightning: 'electricity'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "电话",
+    "example_pinyin": "diànhuà",
+    "example_english": "telephone"
   },
   {
     "rank": 231,
@@ -2538,7 +3228,10 @@
     "radical_pinyin": "pū",
     "radical_meaning": "to tap/strike",
     "mnemonic": "婁 (bundle) + 攵 (action). Tallying a bundle by tapping: a 'number'; to count.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "数字",
+    "example_pinyin": "shùzì",
+    "example_english": "number"
   },
   {
     "rank": 232,
@@ -2549,7 +3242,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) over 女 (woman). A woman safe at home under a roof: 'peace', calm, safety.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "安静",
+    "example_pinyin": "ānjìng",
+    "example_english": "quiet"
   },
   {
     "rank": 233,
@@ -2560,7 +3256,10 @@
     "radical_pinyin": "xiǎo",
     "radical_meaning": "small",
     "mnemonic": "小 (small) with a stroke taken away, smaller still: 'few', little; as 'shào', young.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "很少",
+    "example_pinyin": "hěn shǎo",
+    "example_english": "very few"
   },
   {
     "rank": 234,
@@ -2571,7 +3270,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 卩 + 又. A hand delivering judgment/news: to 'report', a 'newspaper'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "报纸",
+    "example_pinyin": "bàozhǐ",
+    "example_english": "newspaper"
   },
   {
     "rank": 235,
@@ -2582,7 +3284,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "A sprout just breaking the soil, raw potential: 'talent'; also 'only just', not until.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "刚才",
+    "example_pinyin": "gāngcái",
+    "example_english": "just now"
   },
   {
     "rank": 236,
@@ -2593,7 +3298,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 吉 (lucky). Tying silk into a 'knot' to bind and conclude.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "结束",
+    "example_pinyin": "jiéshù",
+    "example_english": "to end"
   },
   {
     "rank": 237,
@@ -2604,7 +3312,10 @@
     "radical_pinyin": "yòu",
     "radical_meaning": "hand/again",
     "mnemonic": "厂 (cliff) + 又 (hand). A hand flipping something over: to 'turn over', the opposite, anti-.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "反对",
+    "example_pinyin": "fǎnduì",
+    "example_english": "to oppose"
   },
   {
     "rank": 238,
@@ -2615,7 +3326,10 @@
     "radical_pinyin": "yòu",
     "radical_meaning": "hand/again",
     "mnemonic": "A hand passing down (爫) and a hand receiving (又) across a boat: to 'receive', to bear.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "受不了",
+    "example_pinyin": "shòu bù liǎo",
+    "example_english": "can't stand it"
   },
   {
     "rank": 239,
@@ -2626,7 +3340,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "eye",
     "mnemonic": "A picture of an eye stood upright: 'eye'; by extension an 'item' on a list.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "目的",
+    "example_pinyin": "mùdì",
+    "example_english": "purpose"
   },
   {
     "rank": 240,
@@ -2637,7 +3354,10 @@
     "radical_pinyin": "dà",
     "radical_meaning": "big",
     "mnemonic": "大 (big) with an extra dot, bigger than big: 'too much', the greatest, extremely.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "太好了",
+    "example_pinyin": "tài hǎo le",
+    "example_english": "great!"
   },
   {
     "rank": 241,
@@ -2648,7 +3368,10 @@
     "radical_pinyin": "lǐ",
     "radical_meaning": "village/inside",
     "mnemonic": "A bag or vessel measured against a sundial: a 'quantity'; as 'liáng', to measure.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "数量",
+    "example_pinyin": "shùliàng",
+    "example_english": "quantity"
   },
   {
     "rank": 242,
@@ -2659,7 +3382,10 @@
     "radical_pinyin": "jiōng",
     "radical_meaning": "borders",
     "mnemonic": "A stack piled up one more time: 'again', once more.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "再来一个",
+    "example_pinyin": "zài lái yí gè",
+    "example_english": "one more"
   },
   {
     "rank": 243,
@@ -2670,7 +3396,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "咸 (all) + 心 (heart). Something striking the whole heart: to 'feel', to be moved.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "感谢",
+    "example_pinyin": "gǎnxiè",
+    "example_english": "to thank"
   },
   {
     "rank": 244,
@@ -2681,7 +3410,10 @@
     "radical_pinyin": "yǐn",
     "radical_meaning": "to stride",
     "mnemonic": "聿 (brush) + 廴 (to stride). Laying out plans and pacing the ground: to 'build', establish.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "建议",
+    "example_pinyin": "jiànyì",
+    "example_english": "suggestion"
   },
   {
     "rank": 245,
@@ -2692,7 +3424,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "strength",
     "mnemonic": "Simplified from 務. Putting your strength to a task: an 'affair', business; one 'must'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "服务",
+    "example_pinyin": "fúwù",
+    "example_english": "service"
   },
   {
     "rank": 246,
@@ -2703,7 +3438,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 故 (reason). A person acting for a reason: to 'do', to make.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "做饭",
+    "example_pinyin": "zuò fàn",
+    "example_english": "to cook"
   },
   {
     "rank": 247,
@@ -2714,7 +3452,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 妾 (handmaid). A hand reaching out to take hold: to 'connect', to receive.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "接电话",
+    "example_pinyin": "jiē diànhuà",
+    "example_english": "answer the phone"
   },
   {
     "rank": 248,
@@ -2725,7 +3466,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "A handle marked down the middle, fixed and sure: 'must', certainly.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "必须",
+    "example_pinyin": "bìxū",
+    "example_english": "must"
   },
   {
     "rank": 249,
@@ -2736,7 +3480,10 @@
     "radical_pinyin": "tǔ",
     "radical_meaning": "earth",
     "mnemonic": "土 (earth) + 昜 (sunlight). A sunlit clearing of ground: an open 'field', a venue.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "机场",
+    "example_pinyin": "jīchǎng",
+    "example_english": "airport"
   },
   {
     "rank": 250,
@@ -2747,7 +3494,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 牛 (ox). Counting things one by one: the measure word for 'items'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一件事",
+    "example_pinyin": "yí jiàn shì",
+    "example_english": "one matter"
   },
   {
     "rank": 251,
@@ -2758,7 +3508,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 十 (ten). Counting aloud up to ten: to 'calculate', a 'plan'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "计划",
+    "example_pinyin": "jìhuà",
+    "example_english": "plan"
   },
   {
     "rank": 252,
@@ -2769,7 +3522,10 @@
     "radical_pinyin": "zhú",
     "radical_meaning": "bamboo (radical)",
     "mnemonic": "竹 (bamboo) + 官 (official). A hollow bamboo 'tube'; an official who 'manages'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "不管",
+    "example_pinyin": "bùguǎn",
+    "example_english": "no matter"
   },
   {
     "rank": 253,
@@ -2780,7 +3536,10 @@
     "radical_pinyin": "yuè",
     "radical_meaning": "moon/meat",
     "mnemonic": "其 (basket/phonetic) + 月 (moon). Counting moons toward a set time: a 'period', a term.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "星期",
+    "example_pinyin": "xīngqī",
+    "example_english": "week"
   },
   {
     "rank": 254,
@@ -2791,7 +3550,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "cloth",
     "mnemonic": "A sign hung over a trading post: the 'market', and by extension the 'city'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "城市",
+    "example_pinyin": "chéngshì",
+    "example_english": "city"
   },
   {
     "rank": 255,
@@ -2802,7 +3564,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "eye",
     "mnemonic": "十 (ten) + 目 (eye) + 乚. Ten eyes sighting a perfectly 'straight' line.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一直",
+    "example_pinyin": "yìzhí",
+    "example_english": "all along / straight"
   },
   {
     "rank": 256,
@@ -2813,7 +3578,10 @@
     "radical_pinyin": "chì",
     "radical_meaning": "step (radical)",
     "mnemonic": "彳 (step) + 直 (straight) + 心 (heart). Walking a straight path with an upright heart: 'virtue'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "道德",
+    "example_pinyin": "dàodé",
+    "example_english": "morality"
   },
   {
     "rank": 257,
@@ -2824,7 +3592,10 @@
     "radical_pinyin": "bèi",
     "radical_meaning": "shell/money",
     "mnemonic": "次 (order) + 贝 (money). Money set in order for use: 'capital', resources, funds.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "资料",
+    "example_pinyin": "zīliào",
+    "example_english": "materials / data"
   },
   {
     "rank": 258,
@@ -2835,7 +3606,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "亼 (assemble) + 口 (mouth) + 卩 (seal). An order issued from on high: a 'command'; one's 'fate'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "生命",
+    "example_pinyin": "shēngmìng",
+    "example_english": "life"
   },
   {
     "rank": 259,
@@ -2846,7 +3620,10 @@
     "radical_pinyin": "shān",
     "radical_meaning": "mountain",
     "mnemonic": "Three peaks rising side by side: a 'mountain'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "爬山",
+    "example_pinyin": "pá shān",
+    "example_english": "climb a mountain"
   },
   {
     "rank": 260,
@@ -2857,7 +3634,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "metal/gold",
     "mnemonic": "Nuggets buried under a roof in the earth: 'gold', metal, money.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "金子",
+    "example_pinyin": "jīnzi",
+    "example_english": "gold"
   },
   {
     "rank": 261,
@@ -2868,7 +3648,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 旨 (purpose). The hand's part that points to your purpose: a 'finger', to point.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "手指",
+    "example_pinyin": "shǒuzhǐ",
+    "example_english": "finger"
   },
   {
     "rank": 262,
@@ -2879,7 +3662,10 @@
     "radical_pinyin": "ér",
     "radical_meaning": "legs/child",
     "mnemonic": "A figure bearing a heavy helmet, holding firm: to 'overcome'; also 'gram' (phonetic).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一克",
+    "example_pinyin": "yí kè",
+    "example_english": "one gram"
   },
   {
     "rank": 263,
@@ -2890,7 +3676,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 午 (noon). A spoken word of consent: to 'allow', to permit.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "也许",
+    "example_pinyin": "yěxǔ",
+    "example_english": "perhaps"
   },
   {
     "rank": 264,
@@ -2901,7 +3690,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 充 (fill). Gathering loose threads into one cord: to 'unify', a system.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "传统",
+    "example_pinyin": "chuántǒng",
+    "example_english": "tradition"
   },
   {
     "rank": 265,
@@ -2912,7 +3704,10 @@
     "radical_pinyin": "fāng",
     "radical_meaning": "box/container",
     "mnemonic": "A container (匚) holding divided lots (品-like): a partitioned 'area', a district.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "地区",
+    "example_pinyin": "dìqū",
+    "example_english": "region"
   },
   {
     "rank": 266,
@@ -2923,7 +3718,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 呆 (a child). A person carrying a child safe: to 'protect', to guard.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "保护",
+    "example_pinyin": "bǎohù",
+    "example_english": "to protect"
   },
   {
     "rank": 267,
@@ -2934,7 +3732,10 @@
     "radical_pinyin": "zhì",
     "radical_meaning": "to arrive",
     "mnemonic": "An arrow striking the ground at the end of its flight: to 'arrive', up 'to', until.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "甚至",
+    "example_pinyin": "shènzhì",
+    "example_english": "even"
   },
   {
     "rank": 268,
@@ -2945,7 +3746,10 @@
     "radical_pinyin": "fù",
     "radical_meaning": "mound (radical)",
     "mnemonic": "阝 (mound) + 人 (person). People lined up along a slope: a 'team', a squad.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "排队",
+    "example_pinyin": "pái duì",
+    "example_english": "queue up"
   },
   {
     "rank": 269,
@@ -2956,7 +3760,10 @@
     "radical_pinyin": "shān",
     "radical_meaning": "hair/feathers",
     "mnemonic": "开 (level) + 彡 (decorative strokes). Outlines drawn out: a 'form', a shape.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "形状",
+    "example_pinyin": "xíngzhuàng",
+    "example_english": "shape"
   },
   {
     "rank": 270,
@@ -2967,7 +3774,10 @@
     "radical_pinyin": "shì",
     "radical_meaning": "altar/spirit (radical)",
     "mnemonic": "礻 (altar) + 土 (earth). An altar to the earth-god where people gather: a 'society', a group.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "社会",
+    "example_pinyin": "shèhuì",
+    "example_english": "society"
   },
   {
     "rank": 271,
@@ -2978,7 +3788,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 更 (change). A person changing things to make them easy: 'convenient'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "方便",
+    "example_pinyin": "fāngbiàn",
+    "example_english": "convenient"
   },
   {
     "rank": 272,
@@ -2989,7 +3802,10 @@
     "radical_pinyin": "xué",
     "radical_meaning": "cave/hole",
     "mnemonic": "穴 (cave) + 工 (work). A hollowed-out cave: 'empty'; the open 'sky'; as 'kòng', free time.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "有空吗",
+    "example_pinyin": "yǒu kòng ma",
+    "example_english": "are you free?"
   },
   {
     "rank": 273,
@@ -3000,7 +3816,10 @@
     "radical_pinyin": "bīng",
     "radical_meaning": "ice (radical)",
     "mnemonic": "冫 (water) + 夬 (to break open). Water bursting a dam, no turning back: to 'decide'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "决定",
+    "example_pinyin": "juédìng",
+    "example_english": "to decide"
   },
   {
     "rank": 274,
@@ -3011,7 +3830,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 台 (platform). Controlling the flood waters: to 'govern', to manage, to cure.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "治病",
+    "example_pinyin": "zhì bìng",
+    "example_english": "to cure illness"
   },
   {
     "rank": 275,
@@ -3022,7 +3844,10 @@
     "radical_pinyin": "shī",
     "radical_meaning": "corpse/body",
     "mnemonic": "尸 (body) over layered cloth. Rolling something out flat to show it: to 'unfold', exhibit.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "发展",
+    "example_pinyin": "fāzhǎn",
+    "example_english": "to develop"
   },
   {
     "rank": 276,
@@ -3033,7 +3858,10 @@
     "radical_pinyin": "mǎ",
     "radical_meaning": "horse",
     "mnemonic": "A galloping horse with mane and four legs (simplified): a 'horse'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "马上",
+    "example_pinyin": "mǎshàng",
+    "example_english": "immediately"
   },
   {
     "rank": 277,
@@ -3044,7 +3872,10 @@
     "radical_pinyin": "hé",
     "radical_meaning": "grain",
     "mnemonic": "禾 (grain) + 斗 (measure). Sorting grain by measure into categories: a 'branch', a discipline.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "科学",
+    "example_pinyin": "kēxué",
+    "example_english": "science"
   },
   {
     "rank": 278,
@@ -3055,7 +3886,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A hand issuing orders by mouth (口): to 'manage'; a 'company' (公司).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "公司",
+    "example_pinyin": "gōngsī",
+    "example_english": "company"
   },
   {
     "rank": 279,
@@ -3066,7 +3900,10 @@
     "radical_pinyin": "èr",
     "radical_meaning": "two",
     "mnemonic": "Two lines with a crossed X between, an abstract tally for 'five'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "五个",
+    "example_pinyin": "wǔ gè",
+    "example_english": "five"
   },
   {
     "rank": 280,
@@ -3077,7 +3914,10 @@
     "radical_pinyin": "tǔ",
     "radical_meaning": "earth",
     "mnemonic": "其 (basket) + 土 (earth). Packed earth laid as groundwork: a 'foundation', a base.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "基本",
+    "example_pinyin": "jīběn",
+    "example_english": "basic"
   },
   {
     "rank": 281,
@@ -3088,7 +3928,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "eye",
     "mnemonic": "目 (eye) + 艮 (stubborn/stare). The organ that fixes its gaze: the 'eye'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "眼睛",
+    "example_pinyin": "yǎnjing",
+    "example_english": "eyes"
   },
   {
     "rank": 282,
@@ -3099,7 +3942,10 @@
     "radical_pinyin": "",
     "radical_meaning": "stroke",
     "mnemonic": "Simplified from 書, a hand holding a brush over a vessel: writing, hence a 'book'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "看书",
+    "example_pinyin": "kàn shū",
+    "example_english": "read a book"
   },
   {
     "rank": 283,
@@ -3110,7 +3956,10 @@
     "radical_pinyin": "fēi",
     "radical_meaning": "wrong/not",
     "mnemonic": "Two wings spreading in opposite directions: things going contrary, 'not', wrong.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "非常",
+    "example_pinyin": "fēicháng",
+    "example_english": "extremely"
   },
   {
     "rank": 284,
@@ -3121,7 +3970,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife (radical)",
     "mnemonic": "贝 (vessel) + 刂 (knife). A law inscribed with a knife on a bronze vessel: a 'rule', standard.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "否则",
+    "example_pinyin": "fǒuzé",
+    "example_english": "otherwise"
   },
   {
     "rank": 285,
@@ -3132,7 +3984,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth/ear-side) + 斤 (axe, phonetic). Turning the ear to catch sound: to 'listen'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "听音乐",
+    "example_pinyin": "tīng yīnyuè",
+    "example_english": "listen to music"
   },
   {
     "rank": 286,
@@ -3143,7 +3998,10 @@
     "radical_pinyin": "bái",
     "radical_meaning": "white",
     "mnemonic": "A grain of rice or the sun's first ray: 'white', bright, plain.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "白色",
+    "example_pinyin": "báisè",
+    "example_english": "the color white"
   },
   {
     "rank": 287,
@@ -3154,7 +4012,10 @@
     "radical_pinyin": "jié",
     "radical_meaning": "seal",
     "mnemonic": "去 (go) + 卩 (seal). Turning and stepping back: 'yet', however, to retreat.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "却很难",
+    "example_pinyin": "què hěn nán",
+    "example_english": "yet it's hard"
   },
   {
     "rank": 288,
@@ -3165,7 +4026,10 @@
     "radical_pinyin": "tián",
     "radical_meaning": "field",
     "mnemonic": "田 (field) + 介 (to divide). The dividing line between fields: a 'boundary', a scope.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "世界",
+    "example_pinyin": "shìjiè",
+    "example_english": "the world"
   },
   {
     "rank": 289,
@@ -3176,7 +4040,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 大 (big). Striding all the way through: to 'reach', to attain.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "到达",
+    "example_pinyin": "dàodá",
+    "example_english": "to arrive"
   },
   {
     "rank": 290,
@@ -3187,7 +4054,10 @@
     "radical_pinyin": "ér",
     "radical_meaning": "legs/child",
     "mnemonic": "A person (儿) with fire (火) above their head: a torch-bearer giving 'light'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "阳光",
+    "example_pinyin": "yángguāng",
+    "example_english": "sunshine"
   },
   {
     "rank": 291,
@@ -3198,7 +4068,10 @@
     "radical_pinyin": "pū",
     "radical_meaning": "to tap/strike",
     "mnemonic": "方 (direction) + 攵 (action). Sending something off in a direction: to 'release', to put.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "放假",
+    "example_pinyin": "fàngjià",
+    "example_english": "have a holiday"
   },
   {
     "rank": 292,
@@ -3209,7 +4082,10 @@
     "radical_pinyin": "gōng",
     "radical_meaning": "bow",
     "mnemonic": "弓 (bow) + 虫. A drawn bow with great tension: 'strong', powerful.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "很强",
+    "example_pinyin": "hěn qiáng",
+    "example_english": "very strong"
   },
   {
     "rank": 293,
@@ -3220,7 +4096,10 @@
     "radical_pinyin": "jié",
     "radical_meaning": "seal",
     "mnemonic": "皀 (food vessel) + 卩 (kneeling person). Sitting right down to the meal: 'at once', namely.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "即使",
+    "example_pinyin": "jíshǐ",
+    "example_english": "even if"
   },
   {
     "rank": 294,
@@ -3231,7 +4110,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 象 (elephant). A likeness of a person or thing: an 'image', to resemble.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "好像",
+    "example_pinyin": "hǎoxiàng",
+    "example_english": "it seems"
   },
   {
     "rank": 295,
@@ -3242,7 +4124,10 @@
     "radical_pinyin": "zhuī",
     "radical_meaning": "short-tailed bird",
     "mnemonic": "Originally a bird (隹) caught in clay; hard to free: 'difficult'; as 'nàn', a disaster.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "很难",
+    "example_pinyin": "hěn nán",
+    "example_english": "very difficult"
   },
   {
     "rank": 296,
@@ -3253,7 +4138,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "A stack of offerings piled high: adding 'moreover', and further.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "而且",
+    "example_pinyin": "érqiě",
+    "example_english": "moreover"
   },
   {
     "rank": 297,
@@ -3264,7 +4152,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "Simplified from 權. The weight on a steelyard that sets the balance: 'authority', power.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "权利",
+    "example_pinyin": "quánlì",
+    "example_english": "rights"
   },
   {
     "rank": 298,
@@ -3275,7 +4166,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "田 (field/brain) + 心 (heart). The mind and heart working a field of thought: to 'think'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "思考",
+    "example_pinyin": "sīkǎo",
+    "example_english": "to think"
   },
   {
     "rank": 299,
@@ -3286,7 +4180,10 @@
     "radical_pinyin": "wáng",
     "radical_meaning": "king/jade",
     "mnemonic": "Three levels, heaven-earth-man, joined by one vertical: the 'king' who unites them.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "国王",
+    "example_pinyin": "guówáng",
+    "example_english": "king"
   },
   {
     "rank": 300,
@@ -3297,7 +4194,10 @@
     "radical_pinyin": "shǐ",
     "radical_meaning": "pig",
     "mnemonic": "A pictograph of an elephant with its trunk and tusks: an 'elephant'; hence an 'image', a symbol.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "大象",
+    "example_pinyin": "dàxiàng",
+    "example_english": "elephant"
   },
   {
     "rank": 301,
@@ -3308,7 +4208,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) + 元 (origin/whole). The house fully built and roofed: 'finished', complete.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "吃完了",
+    "example_pinyin": "chī wán le",
+    "example_english": "finished eating"
   },
   {
     "rank": 302,
@@ -3319,7 +4222,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 殳 (tool). Giving the word to put things in place: to 'set up', establish.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "设计",
+    "example_pinyin": "shèjì",
+    "example_english": "design"
   },
   {
     "rank": 303,
@@ -3330,7 +4236,10 @@
     "radical_pinyin": "yì",
     "radical_meaning": "stake/shoot",
     "mnemonic": "工 (work) + 弋 (standard). A worked-out standard to follow: a 'form', a pattern.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "方式",
+    "example_pinyin": "fāngshì",
+    "example_english": "way / method"
   },
   {
     "rank": 304,
@@ -3341,7 +4250,10 @@
     "radical_pinyin": "sè",
     "radical_meaning": "color",
     "mnemonic": "A person bending over another, a flush of feeling on the face: 'color', complexion.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "颜色",
+    "example_pinyin": "yánsè",
+    "example_english": "color"
   },
   {
     "rank": 305,
@@ -3352,7 +4264,10 @@
     "radical_pinyin": "zú",
     "radical_meaning": "foot",
     "mnemonic": "足 (foot) + 各 (each). Each footstep laying out the way: a 'road', a path.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "走路",
+    "example_pinyin": "zǒu lù",
+    "example_english": "to walk"
   },
   {
     "rank": 306,
@@ -3363,7 +4278,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 己 (self). Setting your own words down: to 'record', to remember.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "记得",
+    "example_pinyin": "jìde",
+    "example_english": "to remember"
   },
   {
     "rank": 307,
@@ -3374,7 +4292,10 @@
     "radical_pinyin": "shí",
     "radical_meaning": "ten",
     "mnemonic": "Originally a bell or rack facing a warm direction: 'south'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "南方",
+    "example_pinyin": "nánfāng",
+    "example_english": "the south"
   },
   {
     "rank": 308,
@@ -3385,7 +4306,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "Three mouths (口) stacked: many items judged and graded: 'goods', quality, rank.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "产品",
+    "example_pinyin": "chǎnpǐn",
+    "example_english": "product"
   },
   {
     "rank": 309,
@@ -3396,7 +4320,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 主 (master). A person settled as master of a place: to 'live', to dwell.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "住在这",
+    "example_pinyin": "zhù zài zhè",
+    "example_english": "live here"
   },
   {
     "rank": 310,
@@ -3407,7 +4334,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "牛 (ox) + 口 (mouth). Calling out an offering announcement: to 'tell', to inform.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "告诉我",
+    "example_pinyin": "gàosu wǒ",
+    "example_english": "tell me"
   },
   {
     "rank": 311,
@@ -3418,7 +4348,10 @@
     "radical_pinyin": "mǐ",
     "radical_meaning": "rice",
     "mnemonic": "米 (rice) + 大 (big), simplified. Sorting grains by sort: a 'kind', a category.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "种类",
+    "example_pinyin": "zhǒnglèi",
+    "example_english": "type / category"
   },
   {
     "rank": 312,
@@ -3429,7 +4362,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water",
     "mnemonic": "Originally a fur garment clutched tight; now to clutch at, to 'seek', to beg for.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "要求",
+    "example_pinyin": "yāoqiú",
+    "example_english": "requirement"
   },
   {
     "rank": 313,
@@ -3440,7 +4376,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 居 (to dwell). A hand holding firm ground: to 'rely on', according to; to seize.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "根据",
+    "example_pinyin": "gēnjù",
+    "example_english": "according to"
   },
   {
     "rank": 314,
@@ -3451,7 +4390,10 @@
     "radical_pinyin": "hé",
     "radical_meaning": "grain",
     "mnemonic": "禾 (grain) + 呈 (to present). Measuring out grain by fixed steps: a 'procedure', a journey.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "过程",
+    "example_pinyin": "guòchéng",
+    "example_english": "process"
   },
   {
     "rank": 315,
@@ -3462,7 +4404,10 @@
     "radical_pinyin": "bǐ",
     "radical_meaning": "spoon/dagger",
     "mnemonic": "Two people standing back to back, turned from the warm south: facing 'north'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "北方",
+    "example_pinyin": "běifāng",
+    "example_english": "the north"
   },
   {
     "rank": 316,
@@ -3473,7 +4418,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 力. Walking out to the rim: the 'edge', the border, a side.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "旁边",
+    "example_pinyin": "pángbiān",
+    "example_english": "beside"
   },
   {
     "rank": 317,
@@ -3484,7 +4432,10 @@
     "radical_pinyin": "dǎi",
     "radical_meaning": "bad/death (radical)",
     "mnemonic": "歹 (bones) + 匕 (person). A person collapsed beside bare bones: to 'die', dead.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "饿死了",
+    "example_pinyin": "è sǐ le",
+    "example_english": "starving"
   },
   {
     "rank": 318,
@@ -3495,7 +4446,10 @@
     "radical_pinyin": "gōng",
     "radical_meaning": "bow",
     "mnemonic": "弓 (bow) + 长 (long). Drawing a bow wide open: to 'open up'; the counter for flat sheets.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一张纸",
+    "example_pinyin": "yì zhāng zhǐ",
+    "example_english": "a sheet of paper"
   },
   {
     "rank": 319,
@@ -3506,7 +4460,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 亥. The word for what one 'should' do; 'the above-mentioned'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "应该",
+    "example_pinyin": "yīnggāi",
+    "example_english": "should"
   },
   {
     "rank": 320,
@@ -3517,7 +4474,10 @@
     "radical_pinyin": "tóu",
     "radical_meaning": "lid",
     "mnemonic": "A person with legs crossed: things crossing and meeting: to 'intersect', to hand over.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "交朋友",
+    "example_pinyin": "jiāo péngyou",
+    "example_english": "make friends"
   },
   {
     "rank": 321,
@@ -3528,7 +4488,10 @@
     "radical_pinyin": "jiàn",
     "radical_meaning": "to see",
     "mnemonic": "夫 (man) + 见 (to see). A man sighting along a compass: a 'rule', a standard.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "规定",
+    "example_pinyin": "guīdìng",
+    "example_english": "rule"
   },
   {
     "rank": 322,
@@ -3539,7 +4502,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "Simplified from 萬 (a scorpion swarm, countless). 'Ten thousand', a vast number.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一万",
+    "example_pinyin": "yí wàn",
+    "example_english": "ten thousand"
   },
   {
     "rank": 323,
@@ -3550,7 +4516,10 @@
     "radical_pinyin": "yòu",
     "radical_meaning": "hand/again",
     "mnemonic": "耳 (ear) + 又 (hand). A hand seizing an ear (war trophy): to 'take', to seize.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "取钱",
+    "example_pinyin": "qǔ qián",
+    "example_english": "withdraw money"
   },
   {
     "rank": 324,
@@ -3561,7 +4530,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 立 (stand). A hand hauling something upright: to 'pull', to drag.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "拉门",
+    "example_pinyin": "lā mén",
+    "example_english": "pull the door"
   },
   {
     "rank": 325,
@@ -3572,7 +4544,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (wood) + 各 (each). A wooden lattice of equal squares: a 'grid', a frame, a standard.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "价格",
+    "example_pinyin": "jiàgé",
+    "example_english": "price"
   },
   {
     "rank": 326,
@@ -3583,7 +4558,10 @@
     "radical_pinyin": "yuè",
     "radical_meaning": "moon/meat",
     "mnemonic": "A figure on tiptoe (壬) gazing at the moon (月): to 'gaze', to 'hope' for.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "希望",
+    "example_pinyin": "xīwàng",
+    "example_english": "hope"
   },
   {
     "rank": 327,
@@ -3594,7 +4572,10 @@
     "radical_pinyin": "jiàn",
     "radical_meaning": "to see",
     "mnemonic": "Simplified from 覺. Coming to perceive (见): to 'feel', to become aware; as 'jiào', sleep.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "觉得",
+    "example_pinyin": "juéde",
+    "example_english": "to feel / think"
   },
   {
     "rank": 328,
@@ -3605,7 +4586,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (wood) with a dot, a sapling tended by craft: a 'technique', a skill, an art.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "技术",
+    "example_pinyin": "jìshù",
+    "example_english": "technology / skill"
   },
   {
     "rank": 329,
@@ -3616,7 +4600,10 @@
     "radical_pinyin": "yè",
     "radical_meaning": "page/head",
     "mnemonic": "令 (command) + 页 (head). The neck that carries the head and gives orders: to 'lead', a 'collar'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "领导",
+    "example_pinyin": "lǐngdǎo",
+    "example_english": "leader"
   },
   {
     "rank": 330,
@@ -3627,7 +4614,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight/divide",
     "mnemonic": "Two hands lifting one object together: doing it 'together', in 'common'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一共",
+    "example_pinyin": "yígòng",
+    "example_english": "in total"
   },
   {
     "rank": 331,
@@ -3638,7 +4628,10 @@
     "radical_pinyin": "shí",
     "radical_meaning": "stone",
     "mnemonic": "石 (stone) + 角 (horn). As hard and fixed as horn on stone: 'firm', certain, true.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "确定",
+    "example_pinyin": "quèdìng",
+    "example_english": "to confirm"
   },
   {
     "rank": 332,
@@ -3649,7 +4642,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 专 (specialized). Passing word from person to person: to 'spread'; a 'biography'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "传给我",
+    "example_pinyin": "chuán gěi wǒ",
+    "example_english": "pass it to me"
   },
   {
     "rank": 333,
@@ -3660,7 +4656,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "cloth",
     "mnemonic": "A banner over a gathering of troops, the leader who instructs: a 'teacher', a master.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "老师",
+    "example_pinyin": "lǎoshī",
+    "example_english": "teacher"
   },
   {
     "rank": 334,
@@ -3671,7 +4670,10 @@
     "radical_pinyin": "jiàn",
     "radical_meaning": "to see",
     "mnemonic": "Simplified from 觀. 见 (to see) with 又. Fixing the eyes on something: to 'observe', a 'view'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "参观",
+    "example_pinyin": "cānguān",
+    "example_english": "to visit / tour"
   },
   {
     "rank": 335,
@@ -3682,7 +4684,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 青 (blue-green). Clean blue water you can see through: 'clear', pure.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "清楚",
+    "example_pinyin": "qīngchu",
+    "example_english": "clear"
   },
   {
     "rank": 336,
@@ -3693,7 +4698,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "亼 (to gather) over a mark: the present moment gathered to a point: 'now', today.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "今天",
+    "example_pinyin": "jīntiān",
+    "example_english": "today"
   },
   {
     "rank": 337,
@@ -3704,7 +4712,10 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife",
     "mnemonic": "七 (seven) + 刀 (knife). A knife pressed right up to cut: to 'cut'; as 'qiè', close, urgent.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "切菜",
+    "example_pinyin": "qiē cài",
+    "example_english": "cut vegetables"
   },
   {
     "rank": 338,
@@ -3715,7 +4726,10 @@
     "radical_pinyin": "fù",
     "radical_meaning": "mound (radical)",
     "mnemonic": "阝 (mound/wall) + 完 (complete). A walled enclosure: a 'courtyard', an institution.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "医院",
+    "example_pinyin": "yīyuàn",
+    "example_english": "hospital"
   },
   {
     "rank": 339,
@@ -3726,7 +4740,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 上 (up). Speaking to give way: to 'let', to yield, to allow.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "让我来",
+    "example_pinyin": "ràng wǒ lái",
+    "example_english": "let me do it"
   },
   {
     "rank": 340,
@@ -3737,7 +4754,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 只/戠. Words you can name on sight: to 'know', 'knowledge'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "认识",
+    "example_pinyin": "rènshi",
+    "example_english": "to know / recognize"
   },
   {
     "rank": 341,
@@ -3748,7 +4768,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 㠯 + 矢 (arrow). A person watching and waiting for the signal: to 'wait'; a 'time'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "时候",
+    "example_pinyin": "shíhou",
+    "example_english": "time / moment"
   },
   {
     "rank": 342,
@@ -3759,7 +4782,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "cloth",
     "mnemonic": "An ornamented sash hanging with cloth (巾) below: a 'belt'; to 'carry' on the belt.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "带钱",
+    "example_pinyin": "dài qián",
+    "example_english": "bring money"
   },
   {
     "rank": 343,
@@ -3770,7 +4796,10 @@
     "radical_pinyin": "cùn",
     "radical_meaning": "inch/hand",
     "mnemonic": "巳 (path) + 寸 (hand). A guiding hand showing the road: to 'lead', to guide.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "导游",
+    "example_pinyin": "dǎoyóu",
+    "example_english": "tour guide"
   },
   {
     "rank": 344,
@@ -3781,7 +4810,10 @@
     "radical_pinyin": "jué",
     "radical_meaning": "hook",
     "mnemonic": "Two hands (爫, 彐) tugging one stick: to 'fight over', to contend, to struggle.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "争吵",
+    "example_pinyin": "zhēngchǎo",
+    "example_english": "to quarrel"
   },
   {
     "rank": 345,
@@ -3792,7 +4824,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 云 (cloud). Things carried along like drifting clouds: to 'transport'; 'luck'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "运动",
+    "example_pinyin": "yùndòng",
+    "example_english": "exercise / sport"
   },
   {
     "rank": 346,
@@ -3803,7 +4838,10 @@
     "radical_pinyin": "zhú",
     "radical_meaning": "bamboo (radical)",
     "mnemonic": "竹 (bamboo) + 夭 (bending). Bamboo swaying as if shaking with mirth: to 'laugh', to smile.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "别笑",
+    "example_pinyin": "bié xiào",
+    "example_english": "don't laugh"
   },
   {
     "rank": 347,
@@ -3814,7 +4852,10 @@
     "radical_pinyin": "fēi",
     "radical_meaning": "to fly",
     "mnemonic": "A bird's outstretched wing in motion (simplified): to 'fly', to soar.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "飞机",
+    "example_pinyin": "fēijī",
+    "example_english": "airplane"
   },
   {
     "rank": 348,
@@ -3825,7 +4866,10 @@
     "radical_pinyin": "fēng",
     "radical_meaning": "wind",
     "mnemonic": "Simplified from 風. A sail or insect borne on moving air: the 'wind'; by extension a 'style'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "刮风",
+    "example_pinyin": "guā fēng",
+    "example_english": "the wind blows"
   },
   {
     "rank": 349,
@@ -3836,7 +4880,10 @@
     "radical_pinyin": "zhǐ",
     "radical_meaning": "stop/foot",
     "mnemonic": "Two feet (止) one after the other: a 'step', a pace, to walk.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "散步",
+    "example_pinyin": "sànbù",
+    "example_english": "take a walk"
   },
   {
     "rank": 350,
@@ -3847,7 +4894,10 @@
     "radical_pinyin": "pū",
     "radical_meaning": "to tap/strike",
     "mnemonic": "己 (self) + 攵 (action). Tapping yourself to do better: to 'change', to correct.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "改变",
+    "example_pinyin": "gǎibiàn",
+    "example_english": "to change"
   },
   {
     "rank": 351,
@@ -3858,7 +4908,10 @@
     "radical_pinyin": "pū",
     "radical_meaning": "to tap/strike",
     "mnemonic": "丩 (to bind) + 攵 (action). Gathering and binding the harvest in: to 'collect', to receive.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "收到",
+    "example_pinyin": "shōudào",
+    "example_english": "to receive"
   },
   {
     "rank": 352,
@@ -3869,7 +4922,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (tree) + 艮 (stay firm). The part of the tree that holds fast underground: the 'root', a basis.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一根",
+    "example_pinyin": "yì gēn",
+    "example_english": "one (long thin item)"
   },
   {
     "rank": 353,
@@ -3880,7 +4936,10 @@
     "radical_pinyin": "gān",
     "radical_meaning": "dry/shield",
     "mnemonic": "A pestle or shield: as 'gān', dry/to offend; as 'gàn', the trunk, to do the work.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "干什么",
+    "example_pinyin": "gàn shénme",
+    "example_english": "what are you doing?"
   },
   {
     "rank": 354,
@@ -3891,7 +4950,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 告 (announce). Moving to bring something into being: to 'make', to build.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "制造",
+    "example_pinyin": "zhìzào",
+    "example_english": "to manufacture"
   },
   {
     "rank": 355,
@@ -3902,7 +4964,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech",
     "mnemonic": "A tongue (舌) wagging above a mouth, sound coming out: 'words', speech.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "语言",
+    "example_pinyin": "yǔyán",
+    "example_english": "language"
   },
   {
     "rank": 356,
@@ -3913,7 +4978,10 @@
     "radical_pinyin": "ěr",
     "radical_meaning": "ear",
     "mnemonic": "耳 (ear) + 关 (connect). Ears linked in a chain passing word along: to 'join', to unite.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "联系",
+    "example_pinyin": "liánxì",
+    "example_english": "to contact"
   },
   {
     "rank": 357,
@@ -3924,7 +4992,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 寺 (temple). A steady hand holding fast: to 'hold', to maintain.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "坚持",
+    "example_pinyin": "jiānchí",
+    "example_english": "to persist"
   },
   {
     "rank": 358,
@@ -3935,7 +5006,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 且 (stack). Weaving separate threads into one band: to 'form', a 'group'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "小组",
+    "example_pinyin": "xiǎozǔ",
+    "example_english": "small group"
   },
   {
     "rank": 359,
@@ -3946,7 +5020,10 @@
     "radical_pinyin": "mǔ",
     "radical_meaning": "mother",
     "mnemonic": "A figure with hairpins, originally 'mother'; now 'each, every' (every one mothered).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "每天",
+    "example_pinyin": "měitiān",
+    "example_english": "every day"
   },
   {
     "rank": 360,
@@ -3957,7 +5034,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 齐 (even). Helping people across the water together: to 'aid'; 经济 = economy.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "经济",
+    "example_pinyin": "jīngjì",
+    "example_english": "economy"
   },
   {
     "rank": 361,
@@ -3968,7 +5048,10 @@
     "radical_pinyin": "chē",
     "radical_meaning": "vehicle/cart",
     "mnemonic": "A cart seen from above, axle and wheels (simplified): a 'vehicle', a car.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "开车",
+    "example_pinyin": "kāi chē",
+    "example_english": "drive a car"
   },
   {
     "rank": 362,
@@ -3979,7 +5062,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "to stand",
     "mnemonic": "立 (stand) + 木 (tree), simplified. Those who stand closest to you: 'dear', kin, a 'parent'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "亲人",
+    "example_pinyin": "qīnrén",
+    "example_english": "family member"
   },
   {
     "rank": 363,
@@ -3990,7 +5076,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (wood) + 及 (reach). The ridgepole at the very top of a frame: the 'extreme', the utmost.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "极了",
+    "example_pinyin": "jí le",
+    "example_english": "extremely"
   },
   {
     "rank": 364,
@@ -4001,7 +5090,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "Two trees (木) side by side: a 'wood', a forest.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "树林",
+    "example_pinyin": "shùlín",
+    "example_english": "forest"
   },
   {
     "rank": 365,
@@ -4012,7 +5104,10 @@
     "radical_pinyin": "yuè",
     "radical_meaning": "moon/meat",
     "mnemonic": "月 (body) + a hand pressing a kneeling figure into duty: to 'submit'; 'clothes' you put on.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "衣服",
+    "example_pinyin": "yīfu",
+    "example_english": "clothes"
   },
   {
     "rank": 366,
@@ -4023,7 +5118,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart (radical)",
     "mnemonic": "忄 (heart) + 夬 (decisive). A heart that leaps without delay: 'fast', quick, pleased.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很快",
+    "example_pinyin": "hěn kuài",
+    "example_english": "very fast"
   },
   {
     "rank": 367,
@@ -4034,7 +5132,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "strength",
     "mnemonic": "Simplified from 辦. 力 (strength) flanked by dots: putting effort in to 'handle' a task.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "办法",
+    "example_pinyin": "bànfǎ",
+    "example_english": "method / way"
   },
   {
     "rank": 368,
@@ -4045,7 +5146,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 义 (righteousness). Talking out the right course: to 'discuss', an 'opinion'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "会议",
+    "example_pinyin": "huìyì",
+    "example_english": "meeting"
   },
   {
     "rank": 369,
@@ -4056,7 +5160,10 @@
     "radical_pinyin": "chì",
     "radical_meaning": "step (radical)",
     "mnemonic": "彳 (step) + 主. Stepping off toward a destination: to 'go toward'; 'past', former.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "往前走",
+    "example_pinyin": "wǎng qián zǒu",
+    "example_english": "walk forward"
   },
   {
     "rank": 370,
@@ -4067,7 +5174,10 @@
     "radical_pinyin": "ér",
     "radical_meaning": "legs/child",
     "mnemonic": "二 (two/top) over 儿 (a person). The head, the topmost and 'first' part; the unit 'yuan'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "十元",
+    "example_pinyin": "shí yuán",
+    "example_english": "ten yuan"
   },
   {
     "rank": 371,
@@ -4078,7 +5188,10 @@
     "radical_pinyin": "cǎo",
     "radical_meaning": "grass (radical)",
     "mnemonic": "艹 (grass) + 央 (center). The finest bloom of the plant: 'outstanding', a 'hero'; also 'English'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "英语",
+    "example_pinyin": "Yīngyǔ",
+    "example_english": "English language"
   },
   {
     "rank": 372,
@@ -4089,7 +5202,10 @@
     "radical_pinyin": "shì",
     "radical_meaning": "scholar",
     "mnemonic": "An upright figure standing between heaven and earth: a 'scholar', a gentleman, a warrior.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "护士",
+    "example_pinyin": "hùshi",
+    "example_english": "nurse"
   },
   {
     "rank": 373,
@@ -4100,7 +5216,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 正 (upright). Words that set the record straight: 'proof', a 'certificate'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "证明",
+    "example_pinyin": "zhèngmíng",
+    "example_english": "to prove"
   },
   {
     "rank": 374,
@@ -4111,7 +5230,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 斤 (axe). Only a short walk away: 'near', close, recent.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很近",
+    "example_pinyin": "hěn jìn",
+    "example_english": "very close"
   },
   {
     "rank": 375,
@@ -4122,7 +5244,10 @@
     "radical_pinyin": "dà",
     "radical_meaning": "big",
     "mnemonic": "A hand (手) with something slipping out of its grip: to 'lose', to let fall, to fail.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "失败",
+    "example_pinyin": "shībài",
+    "example_english": "failure"
   },
   {
     "rank": 376,
@@ -4133,7 +5258,10 @@
     "radical_pinyin": "chē",
     "radical_meaning": "vehicle/cart",
     "mnemonic": "车 (wheel) + 专 (to spin). A wheel spinning round: to 'turn', to revolve, to shift.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "转身",
+    "example_pinyin": "zhuǎn shēn",
+    "example_english": "turn around"
   },
   {
     "rank": 377,
@@ -4144,7 +5272,10 @@
     "radical_pinyin": "dà",
     "radical_meaning": "big",
     "mnemonic": "大 (a grown man) with a hairpin (一) across the top, marking adulthood: a 'man', a husband.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "丈夫",
+    "example_pinyin": "zhàngfu",
+    "example_english": "husband"
   },
   {
     "rank": 378,
@@ -4155,7 +5286,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "亼 (gather) over 卩 (kneeling person). A figure issuing orders to those below: a 'command'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "命令",
+    "example_pinyin": "mìnglìng",
+    "example_english": "order / command"
   },
   {
     "rank": 379,
@@ -4166,7 +5300,10 @@
     "radical_pinyin": "bīng",
     "radical_meaning": "ice (radical)",
     "mnemonic": "冫 (water) + 隹 (bird). A bird sighting true to a target: 'accurate'; to 'grant', a standard.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "准备",
+    "example_pinyin": "zhǔnbèi",
+    "example_english": "to prepare"
   },
   {
     "rank": 380,
@@ -4177,7 +5314,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "cloth",
     "mnemonic": "A hand (𠂇) over 巾 (cloth). Spreading out woven 'cloth'; to 'spread', to announce.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一块布",
+    "example_pinyin": "yí kuài bù",
+    "example_english": "a piece of cloth"
   },
   {
     "rank": 381,
@@ -4188,7 +5328,10 @@
     "radical_pinyin": "nǚ",
     "radical_meaning": "woman (radical)",
     "mnemonic": "女 (woman) + 台. Where life begins, with the mother: to 'begin', the start.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "开始",
+    "example_pinyin": "kāishǐ",
+    "example_english": "to begin"
   },
   {
     "rank": 382,
@@ -4199,7 +5342,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "乍 (suddenly) + 心 (heart). The heart's sudden 'how? why?': the question word 怎么.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "怎么办",
+    "example_pinyin": "zěnme bàn",
+    "example_english": "what to do?"
   },
   {
     "rank": 383,
@@ -4210,7 +5356,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) + 尼 (nun). A spoken softener at the end of a question: the particle 呢.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "你呢",
+    "example_pinyin": "nǐ ne",
+    "example_english": "and you?"
   },
   {
     "rank": 384,
@@ -4221,7 +5370,10 @@
     "radical_pinyin": "zǐ",
     "radical_meaning": "child",
     "mnemonic": "才 (sprout) + 子 (child). A young life kept and tended: to 'exist', to store, to survive.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "存钱",
+    "example_pinyin": "cún qián",
+    "example_english": "save money"
   },
   {
     "rank": 385,
@@ -4232,7 +5384,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "A tree (木) whose top branches are not yet grown out: 'not yet', undone.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "未来",
+    "example_pinyin": "wèilái",
+    "example_english": "the future"
   },
   {
     "rank": 386,
@@ -4243,7 +5398,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 元 (origin). A long way from the start: 'far', distant.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很远",
+    "example_pinyin": "hěn yuǎn",
+    "example_english": "very far"
   },
   {
     "rank": 387,
@@ -4254,7 +5412,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) + 丩 (twisting). A mouth letting out a twisting cry: to 'call', to shout.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "叫我",
+    "example_pinyin": "jiào wǒ",
+    "example_english": "call me"
   },
   {
     "rank": 388,
@@ -4265,7 +5426,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "厶 + 口 (mouth). A raised mouth-shaped stand: a 'platform', a 'stage', a desk.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "台上",
+    "example_pinyin": "tái shàng",
+    "example_english": "on the stage"
   },
   {
     "rank": 389,
@@ -4276,7 +5440,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "Simplified from 單. Originally a forked weapon; now 'single', a 'list', a 'form'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "简单",
+    "example_pinyin": "jiǎndān",
+    "example_english": "simple"
   },
   {
     "rank": 390,
@@ -4287,7 +5454,10 @@
     "radical_pinyin": "shān",
     "radical_meaning": "hair/feathers",
     "mnemonic": "景 (scene/light) + 彡 (strokes). Light casting drawn outlines: a 'shadow', an 'image', film.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "电影",
+    "example_pinyin": "diànyǐng",
+    "example_english": "movie"
   },
   {
     "rank": 391,
@@ -4298,7 +5468,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight/divide",
     "mnemonic": "Two hands holding up a vessel (目-like): an 'implement', a tool; to 'possess'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "工具",
+    "example_pinyin": "gōngjù",
+    "example_english": "tool"
   },
   {
     "rank": 392,
@@ -4309,7 +5482,10 @@
     "radical_pinyin": "wǎng",
     "radical_meaning": "net (radical)",
     "mnemonic": "罒 (net) + 夕. A bird-catching 'net'; to 'gather' as in a net; the surname Luo.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "罗马",
+    "example_pinyin": "Luómǎ",
+    "example_english": "Rome"
   },
   {
     "rank": 393,
@@ -4320,7 +5496,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) + 子 (child). Characters 'born' and multiplying under a roof: a written 'word'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "写字",
+    "example_pinyin": "xiě zì",
+    "example_english": "write characters"
   },
   {
     "rank": 394,
@@ -4331,7 +5510,10 @@
     "radical_pinyin": "zhǎo",
     "radical_meaning": "claw/hand",
     "mnemonic": "Simplified from 愛. A hand offering, originally wrapped around 心 (heart): to 'love'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "我爱你",
+    "example_pinyin": "wǒ ài nǐ",
+    "example_english": "I love you"
   },
   {
     "rank": 395,
@@ -4342,7 +5524,10 @@
     "radical_pinyin": "kǎn",
     "radical_meaning": "open box",
     "mnemonic": "Simplified from 擊. A hand bringing down a blow: to 'strike', to hit, to attack.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "打击",
+    "example_pinyin": "dǎjī",
+    "example_english": "to strike / hit"
   },
   {
     "rank": 396,
@@ -4353,7 +5538,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 㐬 (a child being born, head-down). Water rushing out: to 'flow', a stream.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "流水",
+    "example_pinyin": "liúshuǐ",
+    "example_english": "flowing water"
   },
   {
     "rank": 397,
@@ -4364,7 +5552,10 @@
     "radical_pinyin": "zhǐ",
     "radical_meaning": "to go/follow",
     "mnemonic": "Simplified from 備. Laying tools ready in advance: to 'prepare', to equip.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "准备",
+    "example_pinyin": "zhǔnbèi",
+    "example_english": "to prepare"
   },
   {
     "rank": 398,
@@ -4375,7 +5566,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight/divide",
     "mnemonic": "斤 (axe) over two hands (廾): holding a weapon ready: a 'soldier', troops, arms.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "士兵",
+    "example_pinyin": "shìbīng",
+    "example_english": "soldier"
   },
   {
     "rank": 399,
@@ -4386,7 +5580,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 车 (cart). Carts moving nose to tail in a line: to 'link', in succession.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "连续",
+    "example_pinyin": "liánxù",
+    "example_english": "continuous"
   },
   {
     "rank": 400,
@@ -4397,7 +5594,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 周 (all-round). Tuning words till they harmonize: to 'adjust'; a 'tune', a tone.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "空调",
+    "example_pinyin": "kōngtiáo",
+    "example_english": "air conditioning"
   },
   {
     "rank": 401,
@@ -4408,7 +5608,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 罙 (to probe a cave). Water far down a cavern: 'deep', profound.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很深",
+    "example_pinyin": "hěn shēn",
+    "example_english": "very deep"
   },
   {
     "rank": 402,
@@ -4419,7 +5622,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A stand with goods and a mouth (口) bargaining below: 'commerce', to 'consult'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "商店",
+    "example_pinyin": "shāngdiàn",
+    "example_english": "shop"
   },
   {
     "rank": 403,
@@ -4430,7 +5636,10 @@
     "radical_pinyin": "zhú",
     "radical_meaning": "bamboo (radical)",
     "mnemonic": "竹 (bamboo) + 目 (eye) + 廾 (hands). Working an abacus of bamboo rods: to 'calculate'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "算了",
+    "example_pinyin": "suàn le",
+    "example_english": "forget it"
   },
   {
     "rank": 404,
@@ -4441,7 +5650,10 @@
     "radical_pinyin": "bèi",
     "radical_meaning": "shell/money",
     "mnemonic": "斦 (axes) + 贝 (money). The solid worth pledged in pawn: 'quality', substance, nature.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "质量",
+    "example_pinyin": "zhìliàng",
+    "example_english": "quality"
   },
   {
     "rank": 405,
@@ -4452,7 +5664,10 @@
     "radical_pinyin": "wéi",
     "radical_meaning": "enclosure",
     "mnemonic": "囗 (enclosure) + 才, simplified. People drawn into one round circle: a 'group', a ball.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "团结",
+    "example_pinyin": "tuánjié",
+    "example_english": "unity"
   },
   {
     "rank": 406,
@@ -4463,7 +5678,10 @@
     "radical_pinyin": "zhuī",
     "radical_meaning": "short-tailed bird",
     "mnemonic": "隹 (bird) over 木 (tree). Birds flocking onto one tree: to 'gather', to collect.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "集合",
+    "example_pinyin": "jíhé",
+    "example_english": "to gather"
   },
   {
     "rank": 407,
@@ -4474,7 +5692,10 @@
     "radical_pinyin": "bái",
     "radical_meaning": "white",
     "mnemonic": "一 (one) over 白 (white/unit). One full count of units: a 'hundred'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "一百",
+    "example_pinyin": "yìbǎi",
+    "example_english": "one hundred"
   },
   {
     "rank": 408,
@@ -4485,7 +5706,10 @@
     "radical_pinyin": "yǔ",
     "radical_meaning": "rain",
     "mnemonic": "雨 (rain) + 而 (beard). Waiting under the rain for what you 'need': to require, a need.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "需要",
+    "example_pinyin": "xūyào",
+    "example_english": "to need"
   },
   {
     "rank": 409,
@@ -4496,7 +5720,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "Simplified from 價. 亻 (person) + 介. What a person sets a thing at: its 'price', value.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "价钱",
+    "example_pinyin": "jiàqian",
+    "example_english": "price"
   },
   {
     "rank": 410,
@@ -4507,7 +5734,10 @@
     "radical_pinyin": "cǎo",
     "radical_meaning": "grass (radical)",
     "mnemonic": "艹 (plant) + 化 (transform). The plant's part that transforms into beauty: a 'flower'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "花钱",
+    "example_pinyin": "huā qián",
+    "example_english": "spend money"
   },
   {
     "rank": 411,
@@ -4518,7 +5748,10 @@
     "radical_pinyin": "ér",
     "radical_meaning": "legs/child",
     "mnemonic": "Simplified from 黨. 尚 (esteem) over 儿. People banding under one banner: a 'party'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "政党",
+    "example_pinyin": "zhèngdǎng",
+    "example_english": "political party"
   },
   {
     "rank": 412,
@@ -4529,7 +5762,10 @@
     "radical_pinyin": "shí",
     "radical_meaning": "ten",
     "mnemonic": "Simplified from 華. A plant in full glorious bloom: 'splendid', flowery; also 'China'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "华人",
+    "example_pinyin": "Huárén",
+    "example_english": "ethnic Chinese"
   },
   {
     "rank": 413,
@@ -4540,7 +5776,10 @@
     "radical_pinyin": "tǔ",
     "radical_meaning": "earth",
     "mnemonic": "土 (earth) + 成 (to complete). Earthen ramparts raised to completion: a 'city wall', a city.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "城市",
+    "example_pinyin": "chéngshì",
+    "example_english": "city"
   },
   {
     "rank": 414,
@@ -4551,7 +5790,10 @@
     "radical_pinyin": "shí",
     "radical_meaning": "stone",
     "mnemonic": "厂 (cliff) with a chunk (口) fallen below: a 'stone', a rock.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "石头",
+    "example_pinyin": "shítou",
+    "example_english": "stone"
   },
   {
     "rank": 415,
@@ -4562,7 +5804,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 及 (reach). Silk graded thread by thread, step by step: a 'level', a rank.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "年级",
+    "example_pinyin": "niánjí",
+    "example_english": "grade / year"
   },
   {
     "rank": 416,
@@ -4573,7 +5818,10 @@
     "radical_pinyin": "pū",
     "radical_meaning": "to tap/strike",
     "mnemonic": "敕 (to order) + 正 (upright). Tapping everything into upright order: 'orderly', whole.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "整天",
+    "example_pinyin": "zhěngtiān",
+    "example_english": "all day"
   },
   {
     "rank": 417,
@@ -4584,7 +5832,10 @@
     "radical_pinyin": "guǎng",
     "radical_meaning": "shelter/roof",
     "mnemonic": "广 (building) + 付 (to hand over). The hall where matters are handed in: a 'government office'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "政府",
+    "example_pinyin": "zhèngfǔ",
+    "example_english": "government"
   },
   {
     "rank": 418,
@@ -4595,7 +5846,10 @@
     "radical_pinyin": "tóu",
     "radical_meaning": "lid",
     "mnemonic": "Originally a bird snared in a net, struggling free: to 'leave', to part from, away from.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "离开",
+    "example_pinyin": "líkāi",
+    "example_english": "to leave"
   },
   {
     "rank": 419,
@@ -4606,7 +5860,10 @@
     "radical_pinyin": "bīng",
     "radical_meaning": "ice (radical)",
     "mnemonic": "冫 (water) + 兄 (elder). How things stand and compare: a 'situation'; 'moreover'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "情况",
+    "example_pinyin": "qíngkuàng",
+    "example_english": "situation"
   },
   {
     "rank": 420,
@@ -4617,7 +5874,10 @@
     "radical_pinyin": "èr",
     "radical_meaning": "two",
     "mnemonic": "Simplified from 亞. Always 'second' to first: 'inferior', sub-; also 亚洲 (Asia).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "亚洲",
+    "example_pinyin": "Yàzhōu",
+    "example_english": "Asia"
   },
   {
     "rank": 421,
@@ -4628,7 +5888,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 青 (pure/blue). Speaking a clear courteous word: 'please', to invite.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "请进",
+    "example_pinyin": "qǐng jìn",
+    "example_english": "please come in"
   },
   {
     "rank": 422,
@@ -4639,7 +5902,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 支 (branch). What the skilled hand can branch into: a 'skill', a technique.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "技术",
+    "example_pinyin": "jìshù",
+    "example_english": "technology"
   },
   {
     "rank": 423,
@@ -4650,7 +5916,10 @@
     "radical_pinyin": "fù",
     "radical_meaning": "mound (radical)",
     "mnemonic": "阝 (mound) + 祭 (sacrifice). The line where two domains meet: a 'border', between, an occasion.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "国际",
+    "example_pinyin": "guójì",
+    "example_english": "international"
   },
   {
     "rank": 424,
@@ -4661,7 +5930,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 勺 (ladle). A binding silk cord tying two parties: an 'agreement'; 'about'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "大约",
+    "example_pinyin": "dàyuē",
+    "example_english": "approximately"
   },
   {
     "rank": 425,
@@ -4672,7 +5944,10 @@
     "radical_pinyin": "shì",
     "radical_meaning": "altar/show",
     "mnemonic": "An altar where the gods 'reveal' signs: to 'show', to indicate. The full form of 礻.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "表示",
+    "example_pinyin": "biǎoshì",
+    "example_english": "to express"
   },
   {
     "rank": 426,
@@ -4683,7 +5958,10 @@
     "radical_pinyin": "zhǐ",
     "radical_meaning": "to go/follow",
     "mnemonic": "Simplified from 復/複. Retracing one's steps: to 'repeat', again, to reply, to recover.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "复习",
+    "example_pinyin": "fùxí",
+    "example_english": "to review"
   },
   {
     "rank": 427,
@@ -4694,7 +5972,10 @@
     "radical_pinyin": "nè",
     "radical_meaning": "sickness (radical)",
     "mnemonic": "疒 (sickness) + 丙 (third/fire). A person feverish on a sickbed: an 'illness', disease.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "生病",
+    "example_pinyin": "shēngbìng",
+    "example_english": "to get sick"
   },
   {
     "rank": 428,
@@ -4705,7 +5986,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "自 (nose) + 心 (heart). Breath rising from the heart through the nose: a 'breath'; to 'rest'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "休息",
+    "example_pinyin": "xiūxi",
+    "example_english": "to rest"
   },
   {
     "rank": 429,
@@ -4716,7 +6000,10 @@
     "radical_pinyin": "xué",
     "radical_meaning": "cave/hole",
     "mnemonic": "穴 (cave) + 九 (nine). Probing right to the back of the cave: to 'investigate', study deeply.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "研究",
+    "example_pinyin": "yánjiū",
+    "example_english": "research"
   },
   {
     "rank": 430,
@@ -4727,7 +6014,10 @@
     "radical_pinyin": "sī",
     "radical_meaning": "silk (radical)",
     "mnemonic": "纟 (silk) + 戋 (small/slivers). A fine drawn-out silk strand: a 'thread', a line, a wire.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一条线",
+    "example_pinyin": "yì tiáo xiàn",
+    "example_english": "a line"
   },
   {
     "rank": 431,
@@ -4738,7 +6028,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "亻 (person) + 以 (by means of). One person held up against another: 'similar', to 'seem'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "似乎",
+    "example_pinyin": "sìhū",
+    "example_english": "it seems"
   },
   {
     "rank": 432,
@@ -4749,7 +6042,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) over 㠯 (mound of seals). The hall where seals are kept: an 'official', the state.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "官员",
+    "example_pinyin": "guānyuán",
+    "example_english": "official"
   },
   {
     "rank": 433,
@@ -4760,7 +6056,10 @@
     "radical_pinyin": "huǒ",
     "radical_meaning": "fire",
     "mnemonic": "A flame with sparks leaping off each side: 'fire'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "火车",
+    "example_pinyin": "huǒchē",
+    "example_english": "train"
   },
   {
     "rank": 434,
@@ -4771,7 +6070,10 @@
     "radical_pinyin": "jīn",
     "radical_meaning": "axe",
     "mnemonic": "Cutting bundled threads (㡭) with an axe (斤): to 'break', to sever, to judge decisively.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "断了",
+    "example_pinyin": "duàn le",
+    "example_english": "broke / snapped"
   },
   {
     "rank": 435,
@@ -4782,7 +6084,10 @@
     "radical_pinyin": "mǐ",
     "radical_meaning": "rice",
     "mnemonic": "米 (rice) + 青 (pure). Rice husked down to its pure kernel: 'refined', essence, energy.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "精彩",
+    "example_pinyin": "jīngcǎi",
+    "example_english": "wonderful"
   },
   {
     "rank": 436,
@@ -4793,7 +6098,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 㒼 (level/even). Water filled to the very brim: 'full', complete.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "满意",
+    "example_pinyin": "mǎnyì",
+    "example_english": "satisfied"
   },
   {
     "rank": 437,
@@ -4804,7 +6112,10 @@
     "radical_pinyin": "zhī",
     "radical_meaning": "branch",
     "mnemonic": "又 (hand) holding up 十 (a branch). A hand propping up a limb: to 'support'; a 'branch'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一支笔",
+    "example_pinyin": "yì zhī bǐ",
+    "example_english": "a pen"
   },
   {
     "rank": 438,
@@ -4815,7 +6126,10 @@
     "radical_pinyin": "jiàn",
     "radical_meaning": "to see",
     "mnemonic": "礻/示 (show) + 见 (to see). Turning the eyes to take in: to 'look at', to regard.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "电视",
+    "example_pinyin": "diànshì",
+    "example_english": "television"
   },
   {
     "rank": 439,
@@ -4826,7 +6140,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 肖 (to dwindle). Water dwindling away to nothing: to 'vanish', to dispel.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "消息",
+    "example_pinyin": "xiāoxi",
+    "example_english": "news / message"
   },
   {
     "rank": 440,
@@ -4837,7 +6154,10 @@
     "radical_pinyin": "zǒu",
     "radical_meaning": "to walk/run",
     "mnemonic": "走 (to run) + 戉 (axe). Running and vaulting clear over: to 'exceed', to surpass.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "越来越好",
+    "example_pinyin": "yuè lái yuè hǎo",
+    "example_english": "better and better"
   },
   {
     "rank": 441,
@@ -4848,7 +6168,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "Four mouths (口) around 犬 (dog) guarding vessels: a 'device', a utensil, an instrument.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "机器",
+    "example_pinyin": "jīqì",
+    "example_english": "machine"
   },
   {
     "rank": 442,
@@ -4859,7 +6182,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "宀 (roof) + 谷 (valley). A house roomy as a valley: to 'hold', to contain; also 'appearance'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "容易",
+    "example_pinyin": "róngyì",
+    "example_english": "easy"
   },
   {
     "rank": 443,
@@ -4870,7 +6196,10 @@
     "radical_pinyin": "huǒ",
     "radical_meaning": "fire (radical)",
     "mnemonic": "昭 (bright) + 灬 (fire). Light cast down to lighten things: to 'shine'; a 'photo'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "照片",
+    "example_pinyin": "zhàopiàn",
+    "example_english": "photo"
   },
   {
     "rank": 444,
@@ -4881,7 +6210,10 @@
     "radical_pinyin": "yè",
     "radical_meaning": "page/head",
     "mnemonic": "彡 (hair) + 页 (head). Whiskers on the face; borrowed for what one 'must' do, necessary.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "必须",
+    "example_pinyin": "bìxū",
+    "example_english": "must"
   },
   {
     "rank": 445,
@@ -4892,7 +6224,10 @@
     "radical_pinyin": "yǐ",
     "radical_meaning": "second",
     "mnemonic": "A bent arm reaching round, the largest single digit: 'nine'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "九个",
+    "example_pinyin": "jiǔ gè",
+    "example_english": "nine"
   },
   {
     "rank": 446,
@@ -4903,7 +6238,10 @@
     "radical_pinyin": "tǔ",
     "radical_meaning": "earth",
     "mnemonic": "土 (earth) + 曾 (layer upon layer). Heaping earth ever higher: to 'increase', to add.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "增加",
+    "example_pinyin": "zēngjiā",
+    "example_english": "to increase"
   },
   {
     "rank": 447,
@@ -4914,7 +6252,10 @@
     "radical_pinyin": "shí",
     "radical_meaning": "stone",
     "mnemonic": "石 (stone) + 开 (to level). Grinding on a flat stone: to 'grind', and by extension to 'research'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "研究",
+    "example_pinyin": "yánjiū",
+    "example_english": "research"
   },
   {
     "rank": 448,
@@ -4925,7 +6266,10 @@
     "radical_pinyin": "mián",
     "radical_meaning": "roof",
     "mnemonic": "Simplified from 寫. Setting things down under a roof: to 'write'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "写字",
+    "example_pinyin": "xiě zì",
+    "example_english": "write"
   },
   {
     "rank": 449,
@@ -4936,7 +6280,10 @@
     "radical_pinyin": "hé",
     "radical_meaning": "grain",
     "mnemonic": "禾 (grain) + 尔. Weighing out grain and naming the amount: to 'weigh', to 'call', to praise.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "称呼",
+    "example_pinyin": "chēnghu",
+    "example_english": "form of address"
   },
   {
     "rank": 450,
@@ -4947,7 +6294,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person",
     "mnemonic": "人 (person) over 止 (foot). A person up on tiptoe straining to see ahead: to 'plan', to hope.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "企业",
+    "example_pinyin": "qǐyè",
+    "example_english": "enterprise"
   },
   {
     "rank": 451,
@@ -4958,7 +6308,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight",
     "mnemonic": "Two strokes splitting apart: 'eight' (and the root sense of dividing).",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "八个",
+    "example_pinyin": "bā gè",
+    "example_english": "eight"
   },
   {
     "rank": 452,
@@ -4969,7 +6322,10 @@
     "radical_pinyin": "lì",
     "radical_meaning": "strength",
     "mnemonic": "工 (work) + 力 (strength). Hard work paying off: an 'achievement', merit, result.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "成功",
+    "example_pinyin": "chénggōng",
+    "example_english": "success"
   },
   {
     "rank": 453,
@@ -4980,7 +6336,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) + 马 (horse, phonetic). The spoken tag that turns a statement into a question.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "好吗",
+    "example_pinyin": "hǎo ma",
+    "example_english": "okay?"
   },
   {
     "rank": 454,
@@ -4991,7 +6350,10 @@
     "radical_pinyin": "bāo",
     "radical_meaning": "to wrap",
     "mnemonic": "勹 (wrapping arm) around 巳 (a fetus). Something enclosed and bundled: to 'wrap', a 'bag'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "书包",
+    "example_pinyin": "shūbāo",
+    "example_english": "schoolbag"
   },
   {
     "rank": 455,
@@ -5002,7 +6364,10 @@
     "radical_pinyin": "piàn",
     "radical_meaning": "slice",
     "mnemonic": "Half of 木 (a split tree-trunk): a thin 'slice', a flat piece, a flake.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "一片",
+    "example_pinyin": "yí piàn",
+    "example_english": "a slice / piece"
   },
   {
     "rank": 456,
@@ -5013,7 +6378,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A hand (又) holding a tablet (中) to record events: a chronicler, hence 'history'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "历史",
+    "example_pinyin": "lìshǐ",
+    "example_english": "history"
   },
   {
     "rank": 457,
@@ -5024,7 +6392,10 @@
     "radical_pinyin": "nǚ",
     "radical_meaning": "woman",
     "mnemonic": "禾 (grain) + 女 (woman). Bending like grain, yielding a task to another: to 'entrust'; a 'committee'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "委员",
+    "example_pinyin": "wěiyuán",
+    "example_english": "committee member"
   },
   {
     "rank": 458,
@@ -5035,7 +6406,10 @@
     "radical_pinyin": "piě",
     "radical_meaning": "slash",
     "mnemonic": "Breath rising and trailing off; a classical particle for questions and at/in (in 在乎).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "几乎",
+    "example_pinyin": "jīhū",
+    "example_english": "almost"
   },
   {
     "rank": 459,
@@ -5046,7 +6420,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (wood) + 旦 (dawn). Examining the rings of a log by daylight: to 'check', to investigate.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "检查",
+    "example_pinyin": "jiǎnchá",
+    "example_english": "to check"
   },
   {
     "rank": 460,
@@ -5057,7 +6434,10 @@
     "radical_pinyin": "chē",
     "radical_meaning": "vehicle/cart",
     "mnemonic": "车 (cart) + 巠 (stream). A cart light enough to glide like a stream: 'light', easy, gentle.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "很轻",
+    "example_pinyin": "hěn qīng",
+    "example_english": "very light"
   },
   {
     "rank": 461,
@@ -5068,7 +6448,10 @@
     "radical_pinyin": "rì",
     "radical_meaning": "sun",
     "mnemonic": "A lizard (or sun over clouds) that changes readily: to 'change'; hence 'easy'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "容易",
+    "example_pinyin": "róngyì",
+    "example_english": "easy"
   },
   {
     "rank": 462,
@@ -5079,7 +6462,10 @@
     "radical_pinyin": "rì",
     "radical_meaning": "sun",
     "mnemonic": "日 (sun) over 十 (a stem). The sun just risen above the horizon: 'early', morning.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "早上好",
+    "example_pinyin": "zǎoshang hǎo",
+    "example_english": "good morning"
   },
   {
     "rank": 463,
@@ -5090,7 +6476,10 @@
     "radical_pinyin": "yuē",
     "radical_meaning": "to say",
     "mnemonic": "A steamer with rising vapor stacked in layers: a 'former' time, 'once'; great-grand kinship.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "曾经",
+    "example_pinyin": "céngjīng",
+    "example_english": "once / formerly"
   },
   {
     "rank": 464,
@@ -5101,7 +6490,10 @@
     "radical_pinyin": "fù",
     "radical_meaning": "mound (radical)",
     "mnemonic": "阝 (mound/steps) + 余 (surplus). Clearing the steps of what's left over: to 'remove', except.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "除了",
+    "example_pinyin": "chúle",
+    "example_english": "except for"
   },
   {
     "rank": 465,
@@ -5112,7 +6504,10 @@
     "radical_pinyin": "mì",
     "radical_meaning": "cover",
     "mnemonic": "Simplified from 農. Working the fields at first light: 'agriculture', farming.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "农民",
+    "example_pinyin": "nóngmín",
+    "example_english": "farmer"
   },
   {
     "rank": 466,
@@ -5123,7 +6518,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "hand (radical)",
     "mnemonic": "扌 (hand) + 戈 (halberd). A hand searching, weapon ready: to 'look for', to seek.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "找东西",
+    "example_pinyin": "zhǎo dōngxi",
+    "example_english": "look for something"
   },
   {
     "rank": 467,
@@ -5134,7 +6532,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "clothing",
     "mnemonic": "壮 (strong) + 衣 (clothing). Putting on one's outfit and gear: to 'dress', to install, to load.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "假装",
+    "example_pinyin": "jiǎzhuāng",
+    "example_english": "to pretend"
   },
   {
     "rank": 468,
@@ -5145,7 +6546,10 @@
     "radical_pinyin": "guǎng",
     "radical_meaning": "shelter/roof",
     "mnemonic": "A roof with one open side, a hall stretching wide: 'broad', vast.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "广告",
+    "example_pinyin": "guǎnggào",
+    "example_english": "advertisement"
   },
   {
     "rank": 469,
@@ -5156,7 +6560,10 @@
     "radical_pinyin": "rì",
     "radical_meaning": "sun",
     "mnemonic": "日 (sun) + 业, simplified from 顯. Brought out into the sunlight: 'obvious', conspicuous.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "明显",
+    "example_pinyin": "míngxiǎn",
+    "example_english": "obvious"
   },
   {
     "rank": 470,
@@ -5167,7 +6574,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) + 巴. A soft spoken nudge at sentence end: '...right?', 'let's...', the particle 吧.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "走吧",
+    "example_pinyin": "zǒu ba",
+    "example_english": "let's go"
   },
   {
     "rank": 471,
@@ -5178,7 +6588,10 @@
     "radical_pinyin": "fù",
     "radical_meaning": "mound (radical)",
     "mnemonic": "阝 (mound) + 可. A bend in a hill; now mainly the affectionate name-prefix 阿 (阿姨, 阿明).",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "阿姨",
+    "example_pinyin": "āyí",
+    "example_english": "auntie"
   },
   {
     "rank": 472,
@@ -5189,7 +6602,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (tree) + 子 (child/fruit). The tree bearing small fruit: the 'plum'; the surname Li.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "李子",
+    "example_pinyin": "lǐzi",
+    "example_english": "plum"
   },
   {
     "rank": 473,
@@ -5200,7 +6616,10 @@
     "radical_pinyin": "mù",
     "radical_meaning": "tree/wood",
     "mnemonic": "木 (tree) + 示 (to show). A marker post showing the way: a 'mark', a sign, a standard.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "目标",
+    "example_pinyin": "mùbiāo",
+    "example_english": "goal"
   },
   {
     "rank": 474,
@@ -5211,7 +6630,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 炎 (flame). Words flowing warm and lively: to 'talk', to chat, to discuss.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "谈话",
+    "example_pinyin": "tánhuà",
+    "example_english": "to talk"
   },
   {
     "rank": 475,
@@ -5222,7 +6644,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) + 乞 (to beg). The mouth taking food in: to 'eat'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "吃饭",
+    "example_pinyin": "chī fàn",
+    "example_english": "eat a meal"
   },
   {
     "rank": 476,
@@ -5233,7 +6658,10 @@
     "radical_pinyin": "wéi",
     "radical_meaning": "enclosure",
     "mnemonic": "囗 (border) around a sketched plan, simplified from 圖. A 'map', a diagram; to 'plan'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "地图",
+    "example_pinyin": "dìtú",
+    "example_english": "map"
   },
   {
     "rank": 477,
@@ -5244,7 +6672,10 @@
     "radical_pinyin": "xīn",
     "radical_meaning": "heart",
     "mnemonic": "今 (now) + 心 (heart). Holding something present in the heart: to 'miss', to read aloud, a thought.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "想念",
+    "example_pinyin": "xiǎngniàn",
+    "example_english": "to miss"
   },
   {
     "rank": 478,
@@ -5255,7 +6686,10 @@
     "radical_pinyin": "bā",
     "radical_meaning": "eight/divide",
     "mnemonic": "A roofed shape, an old loan for the number: 'six'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "六个",
+    "example_pinyin": "liù gè",
+    "example_english": "six"
   },
   {
     "rank": 479,
@@ -5266,7 +6700,10 @@
     "radical_pinyin": "gōng",
     "radical_meaning": "bow",
     "mnemonic": "弓 (bow) + 丨 (drawn string). Pulling the bowstring back: to 'draw', to lead, to attract.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "吸引",
+    "example_pinyin": "xīyǐn",
+    "example_english": "to attract"
   },
   {
     "rank": 480,
@@ -5277,7 +6714,10 @@
     "radical_pinyin": "chǎng",
     "radical_meaning": "cliff/slope",
     "mnemonic": "Simplified from 歷/曆. Passing step by step through time: to 'experience'; a 'calendar'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "历史",
+    "example_pinyin": "lìshǐ",
+    "example_english": "history"
   },
   {
     "rank": 481,
@@ -5288,7 +6728,10 @@
     "radical_pinyin": "shǒu",
     "radical_meaning": "head",
     "mnemonic": "A head with hair and an eye: the 'head', the 'first', the chief.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "首都",
+    "example_pinyin": "shǒudū",
+    "example_english": "capital city"
   },
   {
     "rank": 482,
@@ -5299,7 +6742,10 @@
     "radical_pinyin": "fāng",
     "radical_meaning": "box/container",
     "mnemonic": "Simplified from 醫. An arrow (矢) in a case being treated: 'medicine', a doctor, to cure.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "医生",
+    "example_pinyin": "yīshēng",
+    "example_english": "doctor"
   },
   {
     "rank": 483,
@@ -5310,7 +6756,10 @@
     "radical_pinyin": "shī",
     "radical_meaning": "corpse/body",
     "mnemonic": "尸 (body) + 句. A confined space marked off: an 'office', a bureau; a 'situation', a round.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "结局",
+    "example_pinyin": "jiéjú",
+    "example_english": "ending"
   },
   {
     "rank": 484,
@@ -5321,7 +6770,10 @@
     "radical_pinyin": "xué",
     "radical_meaning": "cave/hole",
     "mnemonic": "穴 (cave) + 犬 (dog). A dog bursting suddenly out of its den: 'sudden', to 'dash out'.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "突然",
+    "example_pinyin": "tūrán",
+    "example_english": "suddenly"
   },
   {
     "rank": 485,
@@ -5332,7 +6784,10 @@
     "radical_pinyin": "yī",
     "radical_meaning": "one",
     "mnemonic": "Simplified from 專. A hand turning a single spindle, focused on one thing: 'special', expert.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "专业",
+    "example_pinyin": "zhuānyè",
+    "example_english": "major / specialty"
   },
   {
     "rank": 486,
@@ -5343,7 +6798,10 @@
     "radical_pinyin": "bèi",
     "radical_meaning": "shell/money",
     "mnemonic": "弗 (not) + 贝 (money). Money slipping away from you: a 'fee', an expense, to spend.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "免费",
+    "example_pinyin": "miǎnfèi",
+    "example_english": "free of charge"
   },
   {
     "rank": 487,
@@ -5354,7 +6812,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "Simplified from 號. A mouth (口) crying out to label or call: a 'number', a name, a sign.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "几号",
+    "example_pinyin": "jǐ hào",
+    "example_english": "what date?"
   },
   {
     "rank": 488,
@@ -5365,7 +6826,10 @@
     "radical_pinyin": "chǐ",
     "radical_meaning": "ruler",
     "mnemonic": "Simplified from 盡. A hand wiping a vessel clean to the last: to 'use up', to exhaust.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "尽力",
+    "example_pinyin": "jìnlì",
+    "example_english": "do one's best"
   },
   {
     "rank": 489,
@@ -5376,7 +6840,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "口 (mouth) + 力 (strength). Setting one apart from the rest with effort: 'another', separate.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "另一个",
+    "example_pinyin": "lìng yí gè",
+    "example_english": "another one"
   },
   {
     "rank": 490,
@@ -5387,7 +6854,10 @@
     "radical_pinyin": "kǒu",
     "radical_meaning": "mouth",
     "mnemonic": "A field densely planted, edge to edge: 'all-round', complete; a full 'cycle', a 'week'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "周末",
+    "example_pinyin": "zhōumò",
+    "example_english": "weekend"
   },
   {
     "rank": 491,
@@ -5398,7 +6868,10 @@
     "radical_pinyin": "chē",
     "radical_meaning": "vehicle/cart",
     "mnemonic": "车 (cart) + 交 (to cross). Setting carts side by side to match them: to 'compare', comparatively.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "比较",
+    "example_pinyin": "bǐjiào",
+    "example_english": "relatively"
   },
   {
     "rank": 492,
@@ -5409,7 +6882,10 @@
     "radical_pinyin": "shuǐ",
     "radical_meaning": "water (radical)",
     "mnemonic": "氵 (water) + 主 (master/lamp). Pouring water steadily onto one spot: to 'concentrate', to note.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "注意",
+    "example_pinyin": "zhùyì",
+    "example_english": "pay attention"
   },
   {
     "rank": 493,
@@ -5420,7 +6896,10 @@
     "radical_pinyin": "yán",
     "radical_meaning": "speech (radical)",
     "mnemonic": "讠 (speech) + 吾 (I/me). Putting my own words into form: 'language', speech.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "语言",
+    "example_pinyin": "yǔyán",
+    "example_english": "language"
   },
   {
     "rank": 494,
@@ -5431,7 +6910,10 @@
     "radical_pinyin": "rén",
     "radical_meaning": "person (radical)",
     "mnemonic": "Simplified from 僅. 亻 (person) + 又. A person with barely a hand's worth: 'only', merely.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "不仅",
+    "example_pinyin": "bùjǐn",
+    "example_english": "not only"
   },
   {
     "rank": 495,
@@ -5442,7 +6924,10 @@
     "radical_pinyin": "lǎo",
     "radical_meaning": "old (radical)",
     "mnemonic": "An elder (耂) bent over, probing and questioning: to 'test', to examine.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "考试",
+    "example_pinyin": "kǎoshì",
+    "example_english": "exam"
   },
   {
     "rank": 496,
@@ -5453,7 +6938,10 @@
     "radical_pinyin": "cǎo",
     "radical_meaning": "grass (radical)",
     "mnemonic": "艹 (plant) + 洛 (water). Leaves drifting down onto water: to 'fall', to drop, to decline.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "落叶",
+    "example_pinyin": "luò yè",
+    "example_english": "falling leaves"
   },
   {
     "rank": 497,
@@ -5464,7 +6952,10 @@
     "radical_pinyin": "qīng",
     "radical_meaning": "blue-green",
     "mnemonic": "Fresh shoots (生) over a well (丹): the color of new growth: 'green/blue', and 'youth'.",
-    "mnemonic_type": "H"
+    "mnemonic_type": "H",
+    "example": "青菜",
+    "example_pinyin": "qīngcài",
+    "example_english": "green vegetables"
   },
   {
     "rank": 498,
@@ -5475,7 +6966,10 @@
     "radical_pinyin": "fù",
     "radical_meaning": "mound (radical)",
     "mnemonic": "辶 (movement) + 阝 (mound) + 有. Moving along behind another: to 'follow', to comply.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "随便",
+    "example_pinyin": "suíbiàn",
+    "example_english": "as you like"
   },
   {
     "rank": 499,
@@ -5486,7 +6980,10 @@
     "radical_pinyin": "chuò",
     "radical_meaning": "walk/movement",
     "mnemonic": "辶 (movement) + 先 (first). Stepping forward to pick the best: to 'choose', to elect.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "选择",
+    "example_pinyin": "xuǎnzé",
+    "example_english": "to choose"
   },
   {
     "rank": 500,
@@ -5497,6 +6994,9 @@
     "radical_pinyin": "dāo",
     "radical_meaning": "knife (radical)",
     "mnemonic": "歹 (bones) + 刂 (knife). Cutting and laying pieces out in order: to 'arrange', a 'row', a series.",
-    "mnemonic_type": "C"
+    "mnemonic_type": "C",
+    "example": "列车",
+    "example_pinyin": "lièchē",
+    "example_english": "train"
   }
 ]

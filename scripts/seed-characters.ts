@@ -34,6 +34,9 @@ const characters = JSON.parse(raw) as Array<{
   radical_meaning: string
   mnemonic: string
   mnemonic_type: 'C' | 'H'
+  example: string | null
+  example_pinyin: string | null
+  example_english: string | null
 }>
 
 const rows = characters.map((c) => ({
@@ -46,6 +49,9 @@ const rows = characters.map((c) => ({
   radical_meaning: c.radical_meaning,
   mnemonic: c.mnemonic,
   mnemonic_type: c.mnemonic_type,
+  example: c.example ?? null,
+  example_pinyin: c.example_pinyin ?? null,
+  example_english: c.example_english ?? null,
 }))
 
 console.log(`Upserting ${rows.length} characters…`)
