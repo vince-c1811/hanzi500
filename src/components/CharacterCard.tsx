@@ -81,6 +81,16 @@ export default function CharacterCard({ character, showFull }: Props) {
             </span>
             <span className="text-ink">{character.mnemonic}</span>
           </div>
+
+          {/* Example sentence */}
+          {character.example && (
+            <div className="rounded-xl bg-white/60 px-4 py-3 text-sm space-y-1">
+              <span className="text-muted font-medium text-xs uppercase tracking-wide">Example</span>
+              <div className="font-cjk font-bold text-ink text-base">{character.example}</div>
+              <div className="text-muted">{character.example_pinyin}</div>
+              <div className="text-ink">{character.example_english}</div>
+            </div>
+          )}
         </div>
       )}
     </div>
