@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', 'Noto Sans SC', system-ui, sans-serif;
+    background-color: #FAFAF8;
+    color: #1A1A1A;
+  }
+
+  /* Ensure CJK characters use the CJK font */
+  :lang(zh) {
+    font-family: 'Noto Sans SC', system-ui, sans-serif;
+  }
+}
