@@ -8,6 +8,7 @@ import { calcStudySeconds, formatStudyTime } from '../lib/studyTime'
 
 interface Stats {
   totalIntroduced: number
+  totalDeck: number
   dueReviews: number
   newAvailableToday: number
   knownCount: number
@@ -65,6 +66,12 @@ export default function DashboardPage() {
     const cards = (allCardsData as UserCard[]) ?? []
     const totalIntroduced = cards.length
 
+    const { count: customCardCount } = await supabase
+      .from('user_custom_cards')
+      .select('*', { count: 'exact', head: true })
+      .eq('user_id', user.id)
+    const totalDeck = 500 + (customCardCount ?? 0)
+
     // Due cards — includes New state so cards just learned show up immediately
     const now = new Date().toISOString()
     const dueReviews = cards.filter((c) => c.due <= now).length
@@ -96,7 +103,7 @@ export default function DashboardPage() {
       .map((ts) => new Date(ts).getTime())
     const studySecondsToday = calcStudySeconds(todayTs)
 
-    setStats({ totalIntroduced, dueReviews, newAvailableToday, knownCount, streak, dailyNewCardLimit, studySecondsToday })
+    setStats({ totalIntroduced, totalDeck, dueReviews, newAvailableToday, knownCount, streak, dailyNewCardLimit, studySecondsToday })
     setLoading(false)
   }
 
@@ -143,7 +150,7 @@ export default function DashboardPage() {
       <main className="max-w-lg mx-auto px-4 py-8 space-y-6">
         {/* Stats grid */}
         <div className="grid grid-cols-2 gap-3">
-          <StatCard label="Characters introduced" value={`${s.totalIntroduced} / 500`} />
+          <StatCard label="Characters introduced" value={`${s.totalIntroduced} / ${s.totalDeck}`} />
           <StatCard label="Known" value={String(s.knownCount)} highlight />
           <StatCard label="Due reviews" value={String(s.dueReviews)} />
           <StatCard label="New cards today" value={String(s.newAvailableToday)} />
