@@ -86,7 +86,14 @@ export default function CharacterCard({ character, showFull }: Props) {
           {character.example && (
             <div className="rounded-xl bg-white/60 px-4 py-3 text-sm space-y-1">
               <span className="text-muted font-medium text-xs uppercase tracking-wide">Example</span>
-              <div className="font-cjk font-bold text-ink text-base">{character.example}</div>
+              <div className="font-cjk font-bold text-ink text-base">
+                {character.example.split(character.char).map((part, i, arr) => (
+                  <span key={i}>
+                    {part}
+                    {i < arr.length - 1 && <span className="text-red-600">{character.char}</span>}
+                  </span>
+                ))}
+              </div>
               <div className="text-muted">{character.example_pinyin}</div>
               <div className="text-ink">{character.example_english}</div>
             </div>
