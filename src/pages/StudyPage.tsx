@@ -248,7 +248,8 @@ export default function StudyPage() {
       last_review: null,
     }))
 
-    await supabase.from('user_cards').insert(rows)
+    const { error: insertError } = await supabase.from('user_cards').insert(rows)
+    if (insertError) console.error('user_cards insert failed:', insertError)
     await showSummary(reviewsDone, newBatch.length)
   }
 
