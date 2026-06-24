@@ -248,7 +248,7 @@ export default function StudyPage() {
       last_review: null,
     }))
 
-    await supabase.from('user_cards').upsert(rows, { onConflict: 'user_id,character_id' })
+    await supabase.from('user_cards').insert(rows)
     await showSummary(reviewsDone, newBatch.length)
   }
 
